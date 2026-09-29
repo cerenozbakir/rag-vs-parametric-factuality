@@ -1,0 +1,12 @@
+{
+  "closed_book": {
+    "n_wrong_answers": 233,
+    "pct_confident_fabrication": 74.2,
+    "pct_explicit_uncertainty": 25.8
+  },
+  "bm25_rag": {
+    "n_wrong_answers": 113,
+    "pct_confident_fabrication": 93.8,
+    "pct_explicit_uncertainty": 6.2
+  }
+}

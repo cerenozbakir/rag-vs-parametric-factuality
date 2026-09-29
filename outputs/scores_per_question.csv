@@ -1,0 +1,751 @@
+id,condition,question,prediction,gold_answers,em,f1
+56be5333acb8001400a5030b,closed_book,What was the average cost for a 30 second commercial during Super Bowl 50?,$2 million,$5 million | $5 million | $5 million,0,0.5
+56beaf5e3aeaaa14008c9200,closed_book,What halftime performer previously headlined Super Bowl XLVIII?,John Mayer,Bruno Mars | Bruno Mars | Mars,0,0.0
+56d9943fdc89441400fdb576,closed_book,Which team had the best regular season in their history?,The New York Yankees had the best regular season in their history.,Carolina Panthers | the Panthers | Carolina,0,0.0
+56d997cddc89441400fdb58a,closed_book,How many receptions did Cotchery  get for the 2015 season?,I don't know.,39 | 39 | 39,0,0.0
+56bf3e803aeaaa14008c9589,closed_book,What position does Brandon Marshall currently play? ,Wide receiver,Linebacker | Linebacker | Linebacker,0,0.0
+56bebb293aeaaa14008c9305,closed_book,In what city's Marriott did the Panthers stay?,"Charlotte, North Carolina.",San Jose | San Jose | San Jose,0,0.0
+56d9b389dc89441400fdb6ec,closed_book,What football associated thing started at Justin Herman Plaza in January?,I don't know.,"Super Bowl City | ""Super Bowl City"" | Super Bowl City",0,0.0
+56bebd713aeaaa14008c9331,closed_book,How long will the event at Santa Clara Convention Center last?,I don't know.,a week | a week | week,0,0.0
+56bec0dd3aeaaa14008c935b,closed_book,What was the resolution of the cameras used in the EyeVision 360 system?,12 megapixels,5K | 5K | 5K,0,0.0
+56d722330d65d214001983a7,closed_book,Which company had a commercial aired for free as a result of the Quickbooks contest?,Intuit,Death Wish Coffee | Death Wish Coffee | Death Wish Coffee,0,0.0
+56bec4343aeaaa14008c93a9,closed_book,What Universal trailer debuted during the Super Bowl?,"""Juno""",Jason Bourne | Jason Bourne | Jason Bourne,0,0.0
+56d9c203dc89441400fdb7a0,closed_book,What two radio stations in Denver carried Super Bowl 50?,KUSA and KFIA,KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM),0,0.2
+56d7251d0d65d214001983cd,closed_book,What former MVP was shown in the locker room?,LeBron James,Peyton Manning | Peyton Manning | Manning,0,0.0
+56d9c5e7dc89441400fdb7dc,closed_book,What did Carolina face in the opening drive that they had not faced the entire postseason?,A blocked extra point.,a deficit. | a deficit | deficit,0,0.0
+56d9ccacdc89441400fdb842,closed_book,What is the last name of the player who was Manning's top receiver for Super Bowl 50?,Rob Gronkowski,Sanders | Sanders | Sanders,0,0.0
+5733a5f54776f41900660f46,closed_book,Who was Frédéric Chopin?,Pianist and composer known for his nocturnes and ballades.,Famous musicians | musicians | Famous musicians,0,0.0
+57339eb9d058e614000b5efa,closed_book,What does the Museum of the Polish Army portray the history of?,Military events and conflicts.,arms | history of arms | arms,0,0.0
+5733a560d058e614000b5f78,closed_book,Where did two of Triton's daughters set out on a journey through?,I don't know.,depths of the oceans and seas | depths of the oceans and seas | depths of the oceans and seas,0,0.0
+57332442d058e614000b5723,closed_book,What did Warsz own?,I don't know.,a village | village,0,0.0
+57338160d058e614000b5bfa,closed_book,How many members are on the Warsaw City Counil?,51,60 | 60 | 60,0,0.0
+56dde27d9a695914005b9652,closed_book,What part of France were the Normans located?,"Normandy, in northern France.",north | the north | north,0,0.0
+56de10b44396321400ee2593,closed_book,What was the name of the Norman castle?,Chester Castle,Afranji | Afranji | Afranji,0,0.0
+56e0b9d57aa994140058e6c3,closed_book,Where did Tesla work with Edison?,Inventors Thomas Edison and Nikola Tesla worked together at Edison's Menlo Park laboratory in New Jersey,New York City | New York City | New York City,0,0.1053
+56dfaa047aa994140058dfbf,closed_book,Milutin Tesla died at what age?,I don't know.,60 | 60 | 60,0,0.0
+56e057e1231d4119001ac047,closed_book,Who arranged for Tesla to demonstrate his system at the IEEE?,George Westinghouse,Thomas Commerford Martin | Thomas Commerford Martin | Thomas Commerford Martin,0,0.0
+56e0ef90231d4119001ac46a,closed_book,How old was Tesla when he became a citizen of the US?,24,35 | 35 | 35,0,0.0
+56e0f32d231d4119001ac4cc,closed_book,Who was Tesla trying to photograph when he accidentally took the X-Ray image?,I don't know.,Mark Twain | Mark Twain | Mark Twain,0,0.0
+56e0f6aa231d4119001ac4f0,closed_book,Where are longitudinal waves found?,Earth's crust and oceans.,force-free magnetic fields | waves in plasmas | in force-free magnetic fields,0,0.0
+56e0ed557aa994140058e7e0,closed_book,Who demonstrated the Egg of Columbus?,Niccolò Macchiuccio,Tesla | Tesla | Tesla,0,0.0
+56e0fb887aa994140058e86d,closed_book,What type of animal did onlookers claim was piloting the boat?,I don't know.,monkey | monkey | a trained monkey,0,0.0
+56e10d2dcd28a01900c674db,closed_book,When did Tesla make these claims?,1896,1935 | In 1935 | 1935,0,0.0
+56e11c24e3433e1400422c19,closed_book,How tall was Tesla?,6 feet 2 inches,6 feet 2 inches | 6 feet 2 inches | 6 feet 2 inches (1.88 m),1,1.0
+56e11d8ecd28a01900c675f1,closed_book,How long would Tesla spend gambling sometimes?,I don't know.,more than 48 hours | 48 hours | 48 hours,0,0.0
+56e190bce3433e1400422fc8,closed_book,What kind of problems are one of the main topics studied in computational complexity theory?,NP completeness and time/space bounds.,Decision problems | Decision problems | Decision,0,0.0
+56e1a564cd28a01900c67a4a,closed_book,What term corresponds to the maximum measurement of time across all functions of n? ,Turing barrier,worst-case time complexity | worst-case time complexity | the worst-case time complexity,0,0.0
+56e1f10ee3433e1400423223,closed_book,"Though unkown, what are the most commonly ascribed attributes of L in relation to P",I don't know.,strictly contained in P or equal to P | contained in P or equal to P. | strictly contained in P or equal to P,0,0.0
+56e74faf00c9c71400d76f94,closed_book,Who could be the subjects of a teacher's college investigation?,"Students, colleagues, parents.",members | members | members,0,0.0
+56e756bc37bdd419002c3e99,closed_book,What type of support does co-teaching provide?,Instructional collaboration and resource sharing.,social networking support | social networking | social networking,0,0.0
+56e7770037bdd419002c3fe0,closed_book,"How much does a Probationer earn, initially?",$500 per month,"20,427 | £20,427 | 20,427",0,0.0
+56e7796637bdd419002c3ffe,closed_book,What is the longest time that a teaching certificate is good for?,7 years,ten years | ten years | ten years,0,0.5
+56e77a8700c9c71400d7718e,closed_book,What website are teachers using to sell their lesson plans?,Teachers Pay Teachers,TeachersPayTeachers.com | TeachersPayTeachers.com | TeachersPayTeachers.com,0,0.0
+56f7f2e0aef2371900625cb3,closed_book,Where did Luther spend his career?,Germany,University of Wittenberg | University of Wittenberg | University of Wittenberg.,0,0.0
+56f8074faef2371900625d7b,closed_book,Who translated and printed Luther's 95 These?,Nicolas Copernicus,friends of Luther | friends of Luther | friends of Luther,0,0.0
+56f80ad1a6d7ea1400e1739c,closed_book,What sections of Church dogma did Luther come to view in another way?,"Sola Scriptura, Justification by Faith Alone",penance and righteousness | penance and righteousness | penance and righteousness,0,0.0
+56f8225ea6d7ea1400e173f3,closed_book,Of what was the Diet of Worms an assembly? ,Church council,estates of the Holy Roman Empire | estates of the Holy Roman Empire | general assembly of the estates of the Holy Roman Empire,0,0.0
+56f845dba6d7ea1400e1751d,closed_book,What did Luther identify the Papacy as?,I don't know.,antichrist | antichrist of 2 Thessalonians 2 | The antichrist of 2 Thessalonians 2,0,0.0
+56f84a60aef2371900625f9e,closed_book,Who wrote a resounding letter to the elector praising Luther?,Martin Luther King Jr.,Jerome Schurf | Jerome Schurf | Schurf,0,0.0
+56f84e63aef2371900625fc3,closed_book,What did Luther call the revolting peasants?,Peasants' War,"mad dogs | Murderous, Thieving Hordes | mad dogs",0,0.0
+56f8541da6d7ea1400e17579,closed_book,"Besides the walk to the church, what else was left out of the day's celebration?",I don't know.,wedding banquet | wedding banquet | banquet,0,0.0
+56f85cf0aef237190062601d,closed_book,What did the new mass allow as regards ceremony?,I don't know.,freedom of ceremony | freedom | wine as well as the bread,0,0.0
+56f867e3a6d7ea1400e175da,closed_book,What work of Luther's is seen as a clear religious teaching?,Catechism,Small Catechism | Small Catechism | The Small Catechism,0,0.6667
+56f86966aef2371900626054,closed_book,What work is useful for pastors?,Sermon preparation and delivery.,Larger Catechism | Larger Catechism | Larger Catechism,0,0.0
+56f86b44a6d7ea1400e175f7,closed_book,What did he work on refining until the end of his life?,He worked on refining petroleum until the end of his life.,the translation | translation | translation,0,0.0
+56f8a2969e9bad19000a022f,closed_book,What book did Luther write in response to Agricola and the antinomians?,"Luther wrote ""On the Freedom of a Christian"" in response to Agricola and the ant",On the Councils and the Church | On the Councils and the Church | On the Councils,0,0.25
+56f8a6969e9bad19000a025f,closed_book,What should a Christian follow in his life?,Jesus' teachings and commandments.,Ten Commandments | Ten Commandments | his or her vocations on a daily basis,0,0.3333
+56f8c2ee9b226e1400dd0f46,closed_book,"Besides the arguments with Rome and his own fellow reformers, what scandal  contributed to Luther's failing health?",Luther's quarrel with Pope Leo X over indulgences.,bigamy of the Philip of Hesse | the bigamy of the Philip of Hesse incident | bigamy of the Philip of Hesse,0,0.0
+56f8c7029e9bad19000a04a1,closed_book,What was Luther involved in dealing with the minds in Mansfeld?,I don't know.,negotiations | negotiations for a settlement | siblings' families continuing in their father Hans Luther's copper mining,0,0.0
+5705edcd52bb8914006896cb,closed_book,How many miles south of San Jose is the north - south midway point located?,I don't know.,11 | 11 | 11,0,0.0
+5705f36452bb89140068971b,closed_book,Which mountain range influenced the split of the regions?,Andes,Tehachapis | the Tehachapis | Tehachapis,0,0.0
+5705f36452bb89140068971c,closed_book,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",I don't know.,southern | southern California | southern California,0,0.0
+57060df252bb891400689821,closed_book,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",I don't know.,Riverside | Riverside | Downtown Riverside,0,0.0
+5706111a52bb89140068984e,closed_book,How many lines run out of Downtown Los Angeles?,I don't know.,Six | Six | Six,0,0.0
+5706149552bb891400689884,closed_book,When is the suspended team scheduled to return?,I don't know.,2018 | in 2018 | 2018,0,0.0
+570961aa200fba1400367f16,closed_book,Who's satellites would the new free-to-air channels be broadcast from?,Astra satellite network.,Astra | Astra's | Astra's satellites,0,0.5
+5709686c200fba1400367f78,closed_book,How many people were registered to receive the HD service prior to launch?,I don't know.,"40,000 | 40,000 | 40,000",0,0.0
+570d391fb3d812140066d576,closed_book,Of what mountain system are the Victorian Alps a part?,Alps,Great Dividing Range | the Great Dividing Range | Great Dividing Range,0,0.0
+57107d73b654c5140001f91e,closed_book,When was this edict declared?,1948,1685 | 1685 | 1685,0,0.0
+57108198b654c5140001f93a,closed_book,What is the southern region where protestants are concentrated?,United States,Cévennes | Cévennes | Cévennes mountain region,0,0.0
+571095a8a58dae1900cd6a77,closed_book,When was the French colony in modern day Brazil founded?,1530,1555 | 1555 | 1555,0,0.0
+5710e9f8a58dae1900cd6b34,closed_book,When was the colony destroyed?,I don't know.,1565 | 1565 | 1565,0,0.0
+5710f4b8b654c5140001fa46,closed_book,Which Count did the Prince strike an arrangement with?,I don't know.,Count Ludwig von Nassau-Saarbrücken | Ludwig von Nassau-Saarbrücken | Count Ludwig von Nassau-Saarbrücken,0,0.0
+5710f4b8b654c5140001fa49,closed_book,In what year was the agreement to allow the Saarland settlement reached?,1957,1604 | 1604 | 1604,0,0.0
+5711163bb654c5140001fb17,closed_book,"What is the name of the third, permanent Huguenot church in New Rochelle?",Christ Church,Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church,0,0.3333
+571136b8a58dae1900cd6d24,closed_book,How is lap provided by overlapping the admission side port?,I don't know.,lengthening rubbing surfaces of the valve | lengthening rubbing surfaces | lengthening rubbing surfaces of the valve,0,0.0
+57114f0050c2381900b54a67,closed_book,What is an example of a steam-powered automobile?,The Stanley Steamer.,Stanley Steamer | Stanley Steamer | Stanley Steamer | Stanley Steamer,1,1.0
+571156152419e3140095559b,closed_book,How was the efficiency of a steam engine typically evaluated?,By measuring power output and fuel consumption.,duty | duty,0,0.0
+571c3a685efbb31900334db3,closed_book,Of what group in the periodic table is oxygen a member?,Chalcogen,chalcogen | chalcogen | chalcogen | chalcogen | the chalcogen group,1,1.0
+571c83f3dd7acb1400e4c0d8,closed_book,How is dioxygen most simply described?,Oxygen gas.,covalent double bond | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms,0,0.1
+571c8539dd7acb1400e4c0e6,closed_book,What previous work did Lavoisier experiments discredit?,Phlogiston theory.,phlogiston theory | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory,1,1.0
+571ccc00dd7acb1400e4c15c,closed_book,In how many places is oxygen stored in its cycle?,2 places,three | three | three | three main reservoirs | three,0,0.0
+571cd703dd7acb1400e4c183,closed_book,What is usual form of oxygen bound compounds?,Hemoglobin,oxides | oxides | oxides | oxides | oxides,0,0.0
+571cda1bdd7acb1400e4c197,closed_book,In what state is oxygen shipped in bulk?,Pennsylvania,liquid | as a liquid | liquid | as a liquid in specially insulated tankers,0,0.0
+571cde695efbb31900334e19,closed_book,"Besides fats, fatty acids, and amino acids,what other organic compounds contain oxygen?",Carbohydrates,proteins | proteins | proteins | proteins | proteins,0,0.0
+5725b92e38643c19005acbd6,closed_book,The price of oil is usually a stable commodity until when?,I don't know.,Until the oil shock | the oil shock | the oil shock | Until the oil shock | the oil shock,0,0.0
+5726241189a1e219009ac2e2,closed_book,How long does it take for new areas to have significant oil production?,10-20 years.,five to ten years | five to ten years | five to ten years | five to ten years | five to ten years,0,0.3333
+57265a58dd62a815002e8270,closed_book,Name a type of Toyota compact trucks?,Tacoma,Toyota Hilux | Hilux | Hilux | Toyota Hilux | Hilux,0,0.0
+5725b56589a1e219009abd22,closed_book,Who did the U.S. collaborate with on an Earth orbit mission in 1975?,I don't know.,Soviet Union | Apollo Applications Program | Soviet Union | Soviet Union | Soviet Union,0,0.0
+5725b64d89a1e219009abd41,closed_book,What type of launch was happening during the Apollo 1 incident?,A malfunction in the rocket engine.,prelaunch test | prelaunch | prelaunch test | prelaunch test,0,0.0
+5725c01389a1e219009abdd7,closed_book,How many launch pads were originally planned?,Four,three | several | three | three pads | three,0,0.0
+5725cc2038643c19005acd1b,closed_book,What helped support the Command Module with a propulsion engine and propellants?,Service module.,Service Module (SM) | cylindrical Service Module | Service Module | cylindrical Service Module | Service Module,1,1.0
+5725d2ef271a42140099d257,closed_book,The S-IVB-200 was used in what stage of the Saturn V?,Third stage,third stage | third | third stage | second stage,1,1.0
+5725f239271a42140099d35d,closed_book,What type of camera was used to record the Moon landing?,Nasa camera.,special Apollo TV camera | Apollo TV camera | Apollo TV | Apollo TV camera | Apollo TV camera,0,0.4
+5725cc38ec44d21400f3d5bf,closed_book,Which country in 1985 signed a treaty to give it special status?,I don't know.,Greenland | Greenland | Greenland | Greenland,0,0.0
+57268e2bf1498d1400e8e3b1,closed_book,When year was the Maastrich Treaty signed?,1992,1992 | 1992 | 1992 | 1992,1,1.0
+57264a8cdd62a815002e808e,closed_book,Which authority figure is designated to schedule and set the work of the EU?,European Commission,The Commission's President | The Commission's President | The Commission's President | The Commission's President (,0,0.0
+572651f9f1498d1400e8dbf1,closed_book,How much of a voting majority must there be to effectively censure the Commission?,Two-thirds vote is required.,two-thirds majority | a two-thirds majority | a two-thirds majority | a two-thirds majority,0,0.3333
+572695285951b619008f774b,closed_book,Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?,TFEU Article 291(3),TFEU article 294 | TFEU article 294 | TFEU article 294 | TFEU article 294,0,0.6667
+5726a14c708984140094cc51,closed_book,How long has the concept of legal certainty been recognized as one of the general principles by the EU law?,Since its inception in 1957.,since the 1960s | since the 1960s | since the 1960s,0,0.2857
+5726a5525951b619008f78df,closed_book,Which directive mentioned was created in 1994?,No applicable directives were created in 1994.,Works Council Directive | the 1994 Works Council Directive | Works Council Directive,0,0.1818
+5729e2316aef0514001550c4,closed_book,What kind of forest is the Amazon rainforest?,Tropical rainforest.,moist broadleaf forest | moist broadleaf forest | tropical,0,0.6667
+5729e6313f37b319004785ab,closed_book,Where did water on the eastern side of the amazon basin travel after the split?,I don't know.,the Atlantic | the Atlantic | Atlantic,0,0.0
+5725cbb289a1e219009abed4,closed_book,What was believed to be the cause of devastation to the civilization?,Infectious disease.,diseases from Europe | the spread of diseases from Europe | spread of diseases from Europe,0,0.0
+5729ef266aef05140015511c,closed_book,What type of soil is considered a product of soil management by indigenous peoples in the Amazon Forest?,Agricultural soils.,Terra preta (black earth) | Terra preta | black earth,0,0.0
+5729ef266aef05140015511e,closed_book,In lands attributed to what tribe are found remains of large settlements?,Iroquois tribe,Xingu tribe | Xingu | Xingu,0,0.5
+5726722bdd62a815002e852b,closed_book,What is the average plant biosmass?,31 metric tons per hectare,356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare,0,0.3636
+5725b9db38643c19005acbe1,closed_book,What are Ctenophora commonly known as?,Comb jellies,comb jellies | comb jellies | comb jellies,1,1.0
+5726887e708984140094c91b,closed_book,What is the name of the two-tentacled cydippid that feedsentirely on salps called?,Thaumarchaeus sp.,Lampea | Lampea | Lampea,0,0.0
+57268a37f1498d1400e8e33d,closed_book,What is the oncorhynchus also called?,trout,chum salmon | chum salmon | chum salmon,0,0.0
+5725ce4d38643c19005acd51,closed_book,How do you pronounce Fresno?,Fruh-sow,(/ˈfrɛznoʊ/ FREZ-noh) | FREZ-noh | FREZ-noh,0,0.0
+5725daa8ec44d21400f3d6b5,closed_book,Which artist has a piece of his artwork located at the Fulton Mall?,I don't know.,Pierre-Auguste Renoir | Pierre-Auguste Renoir | Pierre-Auguste Renoir,0,0.0
+57263c78ec44d21400f3dc7b,closed_book,WHen did ARPNET and SITA become operational,"ARPNET became operational in 1969, SITA in 1973.",1969 | 1969 | 1969,0,0.2222
+57263ea0271a42140099d7c5,closed_book,DEC originally had 3 layers but evolved into how many layers ,5,"Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol | seven | seven",0,0.0
+57264228ec44d21400f3dcf6,closed_book,Who founded Telnet ,Boris Beizer,Larry Roberts | ARPA IPTO director Larry Roberts | Larry Roberts,0,0.0
+57264228ec44d21400f3dcf9,closed_book,Telnet was sold to ,I don't know.,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE | GTE | GTE,0,0.0
+57264991f1498d1400e8db31,closed_book,Where did the residents of Antioch flee to?,I don't know.,The city's residents fled to the north | the north | north,0,0.0
+57264fe65951b619008f6fa4,closed_book,When was the study on sequenced Y genomes published?,2015,October 2011 | October 2011 | October 2011,0,0.0
+5726509bdd62a815002e815b,closed_book,What did Shrewsbury note about the plague?,I don't know.,rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | the reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague,0,0.0
+5726516a708984140094c224,closed_book,Why are researchers struggling to identify the history of the plague?,I don't know.,the lack of reliable statistics from this period | the lack of reliable statistics | lack of reliable statistics,0,0.0
+572669a9dd62a815002e841a,closed_book,The principle of faunal succession was developed 100 years before whose theory of evolution?,Charles Darwin's.,Charles Darwin | Charles Darwin | Charles Darwin | Charles Darwin,0,0.5
+57268220f1498d1400e8e218,closed_book,Why is it important to precisely date rocks within the stratigraphic section? ,Precisely dating rocks helps establish rock layers' chronological order and relative ages.,provide better absolute bounds on the timing and rates of deposition | gain information about past climate | provide better absolute bounds on the timing and rates of deposition,0,0.0909
+57268882f1498d1400e8e30a,closed_book,Which famous evolutionist was influenced by the book Principles of Geology?,Charles Darwin.,Charles Darwin | Charles Darwin | Charles Darwin,1,1.0
+5726660d5951b619008f71b2,closed_book,What river was there originally a bridge across in Roman times?,The River Tiber.,Tyne | the River Tyne | the River Tyne,0,0.5
+572666d9dd62a815002e83b6,closed_book,How high was the stone wall built around Newcastle in the 13th century?,I don't know.,25-foot | 25-foot | 25-foot (7.6 m) high,0,0.0
+57269698dd62a815002e8a6c,closed_book,How many universities does Newcastle have?,3,two | two | two,0,0.0
+572680ac708984140094c83e,closed_book,In what year was the Victoria and Albert Museum founded?,1852,1852 | 1852 | 1852 | 1852,1,1.0
+57268f2c708984140094ca28,closed_book,The success of the Britain Can Make It exhibition led to the planning of what exhibition in 1951?,The British Empire Exhibition.,Festival of Britain | Festival of Britain | the Festival of Britain,0,0.0
+57269656708984140094cafe,closed_book,What is the estimated cost of the V&A branded gallery?,I don't know.,£76 million | £76 million | £76 million,0,0.0
+5726ace8dd62a815002e8c9f,closed_book,What did the museum acquire from the Royal College of Science?,I don't know.,Henry Cole wing | Henry Cole wing | Henry Cole wing,0,0.0
+5726c80c5951b619008f7dea,closed_book,Some of the museum's collection of Korean boxes are inlaid with what objects?,Seal stones.,mother-of-pearl | mother-of-pearl | mother-of-pearl,0,0.0
+5726cc11dd62a815002e9088,closed_book,The V&A library's collection of illuminated manuscripts are dated to which centuries?,12th-15th centuries,from the 12th to 16th | 12th to 16th | 12th to 16th,0,0.0
+5726de7a5951b619008f80ac,closed_book,Approximately how many items are in the glass collection of the V&A?,"100, 000 items.",over 6000 | over 6000 | over 6000,0,0.0
+5726e680dd62a815002e946e,closed_book,From which period did the objects in the Soulages collection come from?,1920s-1960s,Italian and French Renaissance | Italian and French Renaissance objects | Renaissance,0,0.0
+5726f4a0708984140094d6eb,closed_book,What was the goal of John Sheepshanks considerable bequest to the museum?,To preserve and promote art.,"forming a 'A National Gallery of British Art' | forming a 'A National Gallery of British Art', | forming a 'A National Gallery of British Art'",0,0.1818
+57267b755951b619008f7433,closed_book,What company owns the American Broadcasting Company?,Disney/ABC Television Group,The Walt Disney Company | Disney–ABC Television Group | Disney–ABC Television Group,0,0.6667
+57268739708984140094c8f1,closed_book,ABC continued NBC Blue's tradition of what?,Continuing its format.,public service | public service | public service,0,0.0
+5726caaaf1498d1400e8eb5c,closed_book,What was the first international event broadcast by ABC?,The first international event broadcast by ABC was the 1936 Summer Olympics in Berlin.,coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II,0,0.0
+57273abef1498d1400e8f4da,closed_book,What cable company removed ABC stations from it's systems in certain markets in April 2000?,Comcast,Time Warner Cable | Time Warner Cable | Time Warner Cable,0,0.0
+572741aaf1498d1400e8f53f,closed_book,How much did Walt Disney want ABC to invest in Disneyland?,$10 million,"$500,000 | $500,000 | $500,000",0,0.0
+572749d7dd62a815002e9a90,closed_book,The Roots miniseries was based on a novel by what author?,I don't know.,Alex Haley | Alex Haley | Alex Haley,0,0.0
+57274a8cf1498d1400e8f5b7,closed_book,When was 7 Lincoln Square completed?,2013,June 1979 | June 1979 | 1979,0,0.0
+572764855951b619008f8953,closed_book,Between what times does Good Morning America air on ABC?,6:00 AM to 10:00 AM Eastern Time.,7:00 to 9:00 a.m. weekdays | 7:00 to 9:00 a.m | 7:00 to 9:00 a.m.,0,0.3636
+5727678e5951b619008f8974,closed_book,What programs are broadcast from the Times Square Studios for ABC?,I don't know.,Good Morning America and Nightline | Good Morning America and Nightline | Good Morning America and Nightline,0,0.0
+572771a5f1498d1400e8f842,closed_book,The merger between ITT and ABC was suspended after a complaint was filed by whom in July 1967?,The New York Times,Department of Justice | Department of Justice | Department of Justice,0,0.0
+5726bf135951b619008f7ce9,closed_book,What strategy did Jebe's army use against Kuchlug and his supporters?,Jebe's army used trickery to deceive Kuchlug and his followers into surrendering.,inciting internal revolt | inciting internal revolt | inciting internal revolt among Kuchlug's supporters,0,0.0
+5726c0c5dd62a815002e8f77,closed_book,Who ordered the attack on the caravan of traders Genghis Khan send to Khwarezmia?,I don't know.,Inalchuq | Inalchuq | Inalchuq,0,0.0
+572754cd5951b619008f8864,closed_book,Who halted the advance of Hulagu Khan across the Middle East?,Genghis Khan halted it.,the Mamluks of Egypt | Mamluks | the Mamluks of Egypt,0,0.0
+5726da89dd62a815002e92b6,closed_book,What types of responsibilities might a pharmacy technician have?,"Stocking medications, preparing prescriptions, assisting patients.",manage the pharmacy department and specialised areas in pharmacy practice | manage the pharmacy department and specialised areas | manage the pharmacy department,0,0.0
+5726dcbddd62a815002e9324,closed_book,Where did the pharmacist stand in relation to the Emperor's personal physicians?,"In ancient China, pharmacists stood between the Emperor and his personal physicians.",ranked above | ranked above | ranked above the two personal physicians of the Emperor,0,0.3333
+5728f2e26aef051400154897,closed_book,What is the term for a hyperactive immune system that attacks normal tissues?,Autoimmune disorder,autoimmunity | autoimmunity | autoimmunity,0,0.0
+5728f2e26aef051400154899,closed_book,What acquired condition results in immunodeficiency in humans?,Acquired Immunodeficiency Syndrome (AIDS),HIV/AIDS | HIV/AIDS | HIV/AIDS,0,0.0
+5728fc2eaf94a219006a9ec9,closed_book,Semen contains what in order to kill pathogens?,Semen contains lactic acid bacteria.,defensins and zinc | defensins and zinc | defensins,0,0.0
+572908c13f37b31900477fbf,closed_book,Innate cells can act as mediators in the activation of what branch of the immune system?,T-cell activation.,adaptive immune system | adaptive | adaptive immune system.,0,0.0
+5729efab3f37b319004785d1,closed_book,What are one of the key cell types of the adaptive immune system?,T cells.,T cells | T cells | T cells,1,1.0
+5729fb003f37b31900478629,closed_book,The production of what signalling molecules is regulated by the immune system?,Hormones,hormones | hormones | hormones,1,1.0
+5729fd111d046914007796a5,closed_book,Plants lack what kind of immune cells?,Plants lack phagocytes.,phagocytic cells | phagocytic | phagocytic cells,0,0.0
+5729fe5c3f37b31900478631,closed_book,Where are the specialized cells that eliminate cells that recognize self-antigens located?,Mucosa-associated lymphoid tissue (MALT),thymus and bone marrow | thymus and bone marrow | thymus and bone marrow,0,0.0
+572a02483f37b3190047864c,closed_book,What are two examples of nonself entities in accordance with Frank Burnet's theory?,"Atomic particles, electrons","pathogens, an allograft | pathogens, an allograft | pathogens, an allograft",0,0.0
+572a0bf96aef051400155206,closed_book,What type of hypersensitivity is associated with allergies?,Type 1 hypersensitivity.,Type I | Type I | Type I hypersensitivity,0,0.6667
+572a142e3f37b319004786b9,closed_book,Complement proteins bind to what kind of molecules on the surface of microbes in order to elicit an immune response?,Antigen molecules.,carbohydrates | carbohydrates | carbohydrates,0,0.0
+5728d4c03acd2414000dffa0,closed_book,Who was one of the earliest examples of Civil Disobedience against?,A. British rule in India,the British | British | Egyptians against the British occupation in the 1919 Revolution. | British occupation | communist governments,0,0.4
+57280f974b864d1900164370,closed_book,If the head of government refuses to enforce a decision of the highest court what terminology could be used?,Judicial override,constitutional impasse | her or his capacity as public official | capacity as public official | constitutional impasse,0,0.0
+5728dddc2ca10214002da9d6,closed_book,What book of the Bible discusses civil disobedience?,The Book of Acts,Book of Exodus | Exodus | Exodus | Exodus | Exodus,0,0.6667
+572825a92ca10214002d9eff,closed_book,Bedau notes that illegal protests towards public policy may serve as what purpose?,I don't know.,propaganda | propaganda | propaganda | propaganda | just a harassment,0,0.0
+572825a92ca10214002d9f02,closed_book,What was the outcome of living in the California Redwood tree?,I don't know.,successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | preventing it from being cut down,0,0.0
+5728e5f43acd2414000e0173,closed_book,How can you protest against the government in an individual way?,Write to a newspaper or magazine.,Threatening government officials | forbidden speech | engaging in the forbidden speech | speech | Threatening government officials,0,0.0
+5728fd3c3f37b31900477f2f,closed_book,What should the punishment rely on instead in a just society?,Deterrence and rehabilitation.,moral reasons to follow this law | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good,0,0.0
+57273e50dd62a815002e9a02,closed_book,What is Engineering News-Record?,A trade publication for the construction industry.,a trade magazine for the construction industry | a trade magazine for the construction industry | trade magazine for the construction industry,0,0.8
+572742bd5951b619008f8787,closed_book,Residential construction can generate what is not carefully planned?,I don't know.,a lot of waste | waste | waste,0,0.0
+57274e975951b619008f87fb,closed_book,Many construction companies are now placing more emphasis on what?,Sustainability practices.,establishing relationships with other necessary participants through the design-build process | establishing relationships with other necessary participants | establishing relationships with other necessary participants,0,0.0
+57274ca8dd62a815002e9aa4,closed_book,"Along with trusts, what other non-profits are allowed to run schools in India?",Charities,societies | societies | societies,0,0.0
+5727d9c43acd2414000dee17,closed_book,Starting in what year has Harvard topped the Academic Rankings of World Universities?,1900,2003 | 2003 | 2003,0,0.0
+57281d494b864d19001644c0,closed_book,What political group began to gain support following the corruption scandal?,The People's Revolutionary Party.,Jacksonville Consolidation | Jacksonville Consolidation | Jacksonville Consolidation,0,0.0
+5727e6cbff5b5019007d97ef,closed_book,"According to Oxfam, the 85 richest people have wealth equal to how many average people?","$40 trillion, which is more than twice the combined annual income of all people in the world",about 3.5 billion people | 3.5 billion | 50% | 3.5 billion,0,0.1053
+5727f05b4b864d190016406a,closed_book,What does less education lead to when working?,Lower earning potential.,lower wages | lower wages | lower wages,0,0.4
+5729e2b76aef0514001550d2,closed_book,What can result in creating a poverty trap?,Inefficient social safety nets.,gender inequality in education | low economic growth | continued gender inequality in education,0,0.0
+5727fc37ff5b5019007d9a1b,closed_book,What has replaced lower skilled workers in the United States?,Automation and technology.,machine labor | machine labor | machine labor,0,0.0
+5729f1c13f37b319004785e9,closed_book,What gender is less willing to travel or relocate for work?,Men,women | women | women,0,0.0
+5729f4273f37b319004785fd,closed_book,What can significantly contribute to the continuing inequality in a society over time?,Racial and economic disparities.,wealth condensation | wealth condensation | wealth condensation,0,0.0
+572a07a86aef0514001551d6,closed_book,What does child well-being in rich countries correlate most to?,Education and economic opportunities.,greater equality | greater equality | greater equality but not per capita income,0,0.0
+572a13841d0469140077973b,closed_book,What have studies on income inequality sometimes found evidence confirming?,Reduced economic mobility.,Kuznets curve hypothesis | Kuznets curve hypothesis | Kuznets curve hypothesis,0,0.0
+572a1c943f37b319004786e4,closed_book,What drove increased rental prices in East New York?,Rents rose due to gentrification and displacement of long-term residents.,residents willing to pay higher market rate for housing | gentrification of older neighbourhoods | new residents willing to pay higher market rate,0,0.2857
+572800b03acd2414000df1f4,closed_book,What is the name of a Time Lord that Doctor Who has fought?,Rivalry with Cybermen.,The Master | The Master | The Master,0,0.0
+572811434b864d190016438d,closed_book,Who were the secondary companions of the Ninth and Tenth Doctors?,"Nyssa Sylvar, K9.",Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman),0,0.0
+5728185f3acd2414000df45c,closed_book,Which series version had a negative reception from some Doctor Who viewers?,"The 50th anniversary special ""Doctor Who and the Daleks in the Seven Keys to Do",2010 | the 2010 series | the 2010 series,0,0.0
+572819864b864d190016447f,closed_book,Who released a disco version of the Doctor Who theme?,David Bowie,Mankind | Mankind | Mankind,0,0.0
+57281f203acd2414000df4f6,closed_book,Which logo had the DW Tardis insignia removed?,I don't know.,The logo for the Twelfth Doctor | The logo for the Twelfth Doctor | The logo for the Twelfth Doctor,0,0.0
+57282f204b864d190016468e,closed_book,Why did the series end in 2011?,I don't know.,due to the death of Elisabeth Sladen | the death of Elisabeth Sladen | the death of Elisabeth Sladen,0,0.0
+57283a392ca10214002da11c,closed_book,Which Doctor Who show was the largest simulcast of a TV drama?,Doctor Who: The Day of the Doctor,50th anniversary special | 50th anniversary special | 50th anniversary special,0,0.0
+57283dbeff5b5019007d9fc7,closed_book,"How many awards has Doctor Who been nominated for, over the years?",123,over 200 | over 200 | over 200,0,0.0
+572849b4ff5b5019007da0f4,closed_book,How much did the Milton Friedman Institute roughly cost?,$10 million,around $200 million | $200 million | $200 million | $200 million,0,0.5
+57286951ff5b5019007da211,closed_book,What Goldman Sachs CEO is also an alumni of the University of Chicago?,James G. Gorman,Jon Corzine | Jon Corzine | Jon Corzine,0,0.0
+572867d72ca10214002da2ff,closed_book,Where did Korea border Kublai's territory?,I don't know.,northeast | northeast | the northeast,0,0.0
+57286c8cff5b5019007da21c,closed_book,How many people in Quzhou are descended from Confucius?,I don't know.,"30,000 | 30,000 | 30,000",0,0.0
+57286d4f2ca10214002da329,closed_book,When did Kublai attack Xiangyang?,1273,between 1268 and 1273 | between 1268 and 1273 | between 1268 and 1273,0,0.4
+57286d4f2ca10214002da32c,closed_book,How did the final Song emperor die?,I don't know.,drowned | drowned | drowned,0,0.0
+572878942ca10214002da3a2,closed_book,What encouraged trade under the Yuan?,Imperial patronage and Silk Road routes.,The political unity of China and much of central Asia | political unity of China and much of central Asia | political unity,0,0.1333
+572879574b864d1900164a14,closed_book,What type of musical instruments did the Yuan bring to China?,Orchestras and various traditional Chinese instruments.,Western | Western | Western,0,0.0
+57287c142ca10214002da3d2,closed_book,What did Kublai do to prevent famines?,I don't know.,granaries were ordered built throughout the empire | granaries were ordered built throughout the empire | granaries were ordered built,0,0.0
+5728de0e2ca10214002da9de,closed_book,What mountain has snow on it all year round?,Everest,"Mount Kenya | Mount Kenya, | Mount Kenya",0,0.0
+572914441d04691400779029,closed_book,Who warned of the potential impact?,I don't know.,"of the United States, Britain, Germany and France | governments | governments of the United States, Britain, Germany and France",0,0.0
+572925491d046914007790c4,closed_book,How many Kenyans are living below the poverty level?,I don't know.,Half | Half | Half,0,0.0
+57293ca73f37b3190047815f,closed_book,What rules does the IPCC have to follow?,"Adopting and implementing the principles of scientific objectivity, consensus building, and transparency in its work",the Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO,0,0.2
+57293d116aef051400154bc8,closed_book,What does the IPCC not do?,I don't know.,does not carry out research nor does it monitor climate related data | research | carry out research nor does it monitor climate related data,0,0.0
+57293e983f37b3190047818b,closed_book,When was the joint statement on climate change issued?,2015,2001 | 2001 | 2001,0,0.0
+572945b11d0469140077922f,closed_book,When was a study published confirming the 2001 IPCC projections?,2013,1 February 2007 | 1 February 2007 | 1 February 2007,0,0.0
+572957ad1d046914007792d9,closed_book,What kind of cell did cynaobacteria enter long ago?,Purple bacteria.,eukaryotic | an early eukaryotic cell | eukaryotic,0,0.0
+57296a65af94a219006aa3c5,closed_book,How does the secondary theory say most cpDNA is structured?,I don't know.,linear | linear | linear,0,0.0
+57296f85af94a219006aa404,closed_book,What shape are pyrenoids?,Disk-shaped.,roughly spherical | roughly spherical | spherical,0,0.0
+5729789b6aef051400154f6e,closed_book,How large are the outer PD ring's filaments?,I don't know.,about 5 nanometers across | about 5 nanometers across | 5 nanometers across,0,0.0
+572970c11d04691400779467,closed_book,When was the prime number theorem proven?,I don't know.,at the end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century,0,0.0
+572980f9af94a219006aa4d5,closed_book,What is the name of another type of prime here p+1 or p-1 takes a certain shape?,Mersenne primes.,Fermat primes | Mersenne | primorial primes | primorial primes | primorial primes,0,0.6667
+572fe1d404bcaa1900d76e37,closed_book,Where is the Rhine? ,River in Europe running through Switzerland and Germany.,Europe | Central and Western Europe | Germany | Germany,0,0.3333
+572f609ca23a5019007fc5af,closed_book,"After the Rhine emerges from Lake Constance, what direction does it flow?",Southeast.,westward | westward | westward,0,0.0
+572ff293947a6a140053ce56,closed_book,Which river joins the Rhine in Duisburg?,The Ruhr River joins the Rhine in Duisburg.,Ruhr | Ruhr | The Ruhr,0,0.2857
+57300888b2c2fd1400568778,closed_book,What was the Colonia Agrippina's original name?,Rome,Ubiorum | oppidum Ubiorum | oppidum Ubiorum,0,0.0
+572fb42904bcaa1900d76c15,closed_book,Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?,The Speaker.,one MSP | MSP | MSP,0,0.0
+572fc41f947a6a140053cc83,closed_book,What members typically open debates?,Politicians or public figures.,ministers or party leaders | ministers or party leaders | ministers or party leaders,0,0.25
+572fc78d04bcaa1900d76d0a,closed_book,What type of committee is set down under the SP's standing orders?,Rules Committee,Mandatory | Mandatory | Mandatory Committees,0,0.0
+572fcd86947a6a140053ccdb,closed_book,Who may introduce new laws or amendments to laws already on the books as a bill?,A legislator.,the Scottish Government | Scottish Government | the Scottish Government,0,0.0
+572fda6fb2c2fd140056850e,closed_book,What set is a seat added to after being allocated?,Ranking system.,constituency seats | constituency | second,0,0.0
+572ffe6fb2c2fd14005686f3,closed_book,What are incompetent government's commitment to social justice limited to?,I don't know.,rhetoric | rhetoric | rhetoric,0,0.0
+573010fab2c2fd14005687da,closed_book,Where did a bloody civil war break out?,I don't know.,Algeria | Algeria | Algeria,0,0.0
+573062662461fd1900a9cdfa,closed_book,imperialism often divides countries by using which technique?,ethnic cleansing,othering | othering | othering | othering | othering,0,0.0
+573081c2069b531400832137,closed_book,Most imperialism was carried out using which method of transport?,I don't know.,seaborne | land | sea and trade routes | sea,0,0.0
+573088da069b53140083216c,closed_book,Where was Halford Mackinder born?,"Halford Mackinder was born in London, England.",Britain | Britain | Britain | Britain | Britain,0,0.0
+573093598ab72b1400f9c5ae,closed_book,"When imperialism impacts social norms of a state, what is it called?",Imperialism changes social norms within a state.,Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism,0,0.25
+573099ee8ab72b1400f9c5df,closed_book,What weapons were the Zulus using during the Anglo-Zulu War of 1879?,Blowpipes and spears.,"arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields",0,0.25
+5730a4d02461fd1900a9cf29,closed_book,When did France take control of Algeria?,1830,1830 | 1830 | 1830 | 1830 | 1830,1,1.0
+5730b8ca8ab72b1400f9c705,closed_book,When was Isiah Bowman appointed to President Wilson's Inquiry?,1918,1917 | 1917 | 1917 | 1917 | 1917,0,0.0
+5730982f396df919000961e2,closed_book,What does UMC stand for?,United Methodist Church,United Methodist Church | United Methodist Church (UMC) | United Methodist Church,1,1.0
+5730982f396df919000961e6,closed_book,What is the church's theological orientation?,I don't know.,Wesleyan | orientation is decidedly Wesleyan | Wesleyan,0,0.0
+57309921396df919000961f6,closed_book,When did the movement that would become The United Methodist Church begin?,1784,mid-18th century | began in the mid-18th century within the Church of England. | mid-18th century,0,0.0
+5730ac6b8ab72b1400f9c671,closed_book,What is Prevenient grace?,I don't know.,"the grace that ""goes before"" us | It is that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ. | that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ.",0,0.0
+5730b10b8ab72b1400f9c6a0,closed_book,The UMC was a founding member of what coalition?,United Nations Convention against Transnational Organized Crime,Religious Coalition for Reproductive Choice | Religious Coalition for Reproductive Choice. | the Religious Coalition for Reproductive Choice,0,0.0
+5730b1e28ab72b1400f9c6af,closed_book,The church emphasizes the need to be in supportive ministry of what group?,The poor.,all women | unacceptable pregnancy. In | women,0,0.0
+5730b9852461fd1900a9cffb,closed_book,The Church supports those persons who conscientiously oppose what?,War.,all war | war | war,1,1.0
+5730d3adaca1c71400fe5af7,closed_book,No appointment is official fixed until what occurs?,When a person arrives for an appointment.,"bishop has read the appointments at the session of the Annual Conference | Until the bishop has read the appointments at the session of the Annual Conference, | the bishop has read the appointments at the session of the Annual Conference",0,0.0
+5730d77ef6cb411900e244dd,closed_book,How to Baptized Members become Professing Members?,By publicly declaring faith and joining church congregation.,confirmation and sometimes the profession of faith | through confirmation and sometimes the profession of faith. | confirmation,0,0.2857
+5730de74f6cb411900e244fc,closed_book,"Unlike confirmation and profession of faith, what is a sacrament in the UMC?",Baptism,Baptism | Baptism | Baptism,1,1.0
+5733d7cbd058e614000b63ac,closed_book,What tribes were in Father Le Loutre's War?,Penobscot and Maliseet.,Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki,0,0.3333
+5733ef47d058e614000b662e,closed_book,When did Washington reach Fort Le Boeuf?,1753,December 12 | December 12 | December 12 | December 12 | December 12,0,0.0
+5733f309d058e614000b6649,closed_book,What were casualties of battle?,Injuries or deaths sustained during combat.,"killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | Canadians, including their commanding officer | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville",0,0.0
+5733f5f24776f419006615c3,closed_book,How many casualties did British get?,I don't know.,"Approximately 1,000 British soldiers were killed or injured. | Approximately 1,000 | 1,000 British soldiers | 1,000 | 1,000 British soldiers",0,0.0
+573408ef4776f41900661757,closed_book,When did the North American French and Indian War end?,1763,signing of the Treaty of Paris on 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763,0,0.5
+57340d124776f419006617c1,closed_book,When was Spanish takeover of Louisiana Territory complete?,1803,1769 | 1769 | 1769 | 1769 | 1769,0,0.0
+57373f80c3c5551400e51e92,closed_book,Who experimented by rolling stones and canonballs down a steep incline?,Galileo Galilei,Galileo | Galileo | Galileo Galilei | Galileo | Galileo | Galileo,1,1.0
+57377862c3c5551400e51ef3,closed_book,What occurs when traveling across a surface at a constant velocity with regard to friction?,No change in speed.,dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium,0,0.0
+57377ec7c3c5551400e51f07,closed_book,What is more fundamental than force in quanton field theory?,I don't know.,conservation of momentum | conservation of momentum | conservation of momentum | the currently known fundamental forces,0,0.0
+57377ec7c3c5551400e51f08,closed_book,What diagrams are used to simplify particle interactions on a fundamental level?,Particle interaction diagrams use Feynman diagrams.,Feynman | Feynman diagrams | Feynman,0,0.5
+573796edc3c5551400e51f37,closed_book,What is the term for the lack of obsevable free quarks?,Quark gap,color confinement | color confinement | color confinement | color confinement,0,0.0
+56be5333acb8001400a5030b,bm25_rag,What was the average cost for a 30 second commercial during Super Bowl 50?,$5 million,$5 million | $5 million | $5 million,1,1.0
+56beaf5e3aeaaa14008c9200,bm25_rag,What halftime performer previously headlined Super Bowl XLVIII?,Bruno Mars,Bruno Mars | Bruno Mars | Mars,1,1.0
+56d9943fdc89441400fdb576,bm25_rag,Which team had the best regular season in their history?,Carolina Panthers,Carolina Panthers | the Panthers | Carolina,1,1.0
+56d997cddc89441400fdb58a,bm25_rag,How many receptions did Cotchery  get for the 2015 season?,77,39 | 39 | 39,0,0.0
+56bf3e803aeaaa14008c9589,bm25_rag,What position does Brandon Marshall currently play? ,Linebacker,Linebacker | Linebacker | Linebacker,1,1.0
+56bebb293aeaaa14008c9305,bm25_rag,In what city's Marriott did the Panthers stay?,San Jose Marriott,San Jose | San Jose | San Jose,0,0.8
+56d9b389dc89441400fdb6ec,bm25_rag,What football associated thing started at Justin Herman Plaza in January?,Super Bowl City.,"Super Bowl City | ""Super Bowl City"" | Super Bowl City",1,1.0
+56bebd713aeaaa14008c9331,bm25_rag,How long will the event at Santa Clara Convention Center last?,Week-long,a week | a week | week,0,0.0
+56bec0dd3aeaaa14008c935b,bm25_rag,What was the resolution of the cameras used in the EyeVision 360 system?,5K resolution.,5K | 5K | 5K,0,0.6667
+56d722330d65d214001983a7,bm25_rag,Which company had a commercial aired for free as a result of the Quickbooks contest?,Death Wish Coffee,Death Wish Coffee | Death Wish Coffee | Death Wish Coffee,1,1.0
+56bec4343aeaaa14008c93a9,bm25_rag,What Universal trailer debuted during the Super Bowl?,The Secret Life of Pets,Jason Bourne | Jason Bourne | Jason Bourne,0,0.0
+56d9c203dc89441400fdb7a0,bm25_rag,What two radio stations in Denver carried Super Bowl 50?,I don't know.,KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM),0,0.0
+56d7251d0d65d214001983cd,bm25_rag,What former MVP was shown in the locker room?,Peyton Manning,Peyton Manning | Peyton Manning | Manning,1,1.0
+56d9c5e7dc89441400fdb7dc,bm25_rag,What did Carolina face in the opening drive that they had not faced the entire postseason?,Defensive struggle.,a deficit. | a deficit | deficit,0,0.0
+56d9ccacdc89441400fdb842,bm25_rag,What is the last name of the player who was Manning's top receiver for Super Bowl 50?,Dalton Schultz,Sanders | Sanders | Sanders,0,0.0
+5733a5f54776f41900660f46,bm25_rag,Who was Frédéric Chopin?,Famous musician.,Famous musicians | musicians | Famous musicians,0,0.5
+57339eb9d058e614000b5efa,bm25_rag,What does the Museum of the Polish Army portray the history of?,arms,arms | history of arms | arms,1,1.0
+5733a560d058e614000b5f78,bm25_rag,Where did two of Triton's daughters set out on a journey through?,through the depths of the oceans and seas,depths of the oceans and seas | depths of the oceans and seas | depths of the oceans and seas,0,0.9091
+57332442d058e614000b5723,bm25_rag,What did Warsz own?,A village.,a village | village,1,1.0
+57338160d058e614000b5bfa,bm25_rag,How many members are on the Warsaw City Counil?,60,60 | 60 | 60,1,1.0
+56dde27d9a695914005b9652,bm25_rag,What part of France were the Normans located?,"Normandy, a region in France.",north | the north | north,0,0.0
+56de10b44396321400ee2593,bm25_rag,What was the name of the Norman castle?,Afranji,Afranji | Afranji | Afranji,1,1.0
+56e0b9d57aa994140058e6c3,bm25_rag,Where did Tesla work with Edison?,Edison Machine Works on Manhattan's lower east side.,New York City | New York City | New York City,0,0.0
+56dfaa047aa994140058dfbf,bm25_rag,Milutin Tesla died at what age?,60,60 | 60 | 60,1,1.0
+56e057e1231d4119001ac047,bm25_rag,Who arranged for Tesla to demonstrate his system at the IEEE?,Thomas Commerford Martin,Thomas Commerford Martin | Thomas Commerford Martin | Thomas Commerford Martin,1,1.0
+56e0ef90231d4119001ac46a,bm25_rag,How old was Tesla when he became a citizen of the US?,35,35 | 35 | 35,1,1.0
+56e0f32d231d4119001ac4cc,bm25_rag,Who was Tesla trying to photograph when he accidentally took the X-Ray image?,Mark Twain,Mark Twain | Mark Twain | Mark Twain,1,1.0
+56e0f6aa231d4119001ac4f0,bm25_rag,Where are longitudinal waves found?,in plasmas,force-free magnetic fields | waves in plasmas | in force-free magnetic fields,0,0.8
+56e0ed557aa994140058e7e0,bm25_rag,Who demonstrated the Egg of Columbus?,Tesla,Tesla | Tesla | Tesla,1,1.0
+56e0fb887aa994140058e86d,bm25_rag,What type of animal did onlookers claim was piloting the boat?,trained monkey,monkey | monkey | a trained monkey,1,1.0
+56e10d2dcd28a01900c674db,bm25_rag,When did Tesla make these claims?,1912,1935 | In 1935 | 1935,0,0.0
+56e11c24e3433e1400422c19,bm25_rag,How tall was Tesla?,1.88 m,6 feet 2 inches | 6 feet 2 inches | 6 feet 2 inches (1.88 m),0,0.5
+56e11d8ecd28a01900c675f1,bm25_rag,How long would Tesla spend gambling sometimes?,Years,more than 48 hours | 48 hours | 48 hours,0,0.0
+56e190bce3433e1400422fc8,bm25_rag,What kind of problems are one of the main topics studied in computational complexity theory?,Inherent difficulty problems.,Decision problems | Decision problems | Decision,0,0.4
+56e1a564cd28a01900c67a4a,bm25_rag,What term corresponds to the maximum measurement of time across all functions of n? ,Worst-case time complexity,worst-case time complexity | worst-case time complexity | the worst-case time complexity,1,1.0
+56e1f10ee3433e1400423223,bm25_rag,"Though unkown, what are the most commonly ascribed attributes of L in relation to P",Not known,strictly contained in P or equal to P | contained in P or equal to P. | strictly contained in P or equal to P,0,0.0
+56e74faf00c9c71400d76f94,bm25_rag,Who could be the subjects of a teacher's college investigation?,Intrinsic motivation of college students.,members | members | members,0,0.0
+56e756bc37bdd419002c3e99,bm25_rag,What type of support does co-teaching provide?,Social networking support allowing students to reach their full cognitive potential.,social networking support | social networking | social networking,0,0.4286
+56e7770037bdd419002c3fe0,bm25_rag,"How much does a Probationer earn, initially?","£20,427","20,427 | £20,427 | 20,427",1,1.0
+56e7796637bdd419002c3ffe,bm25_rag,What is the longest time that a teaching certificate is good for?,4 years,ten years | ten years | ten years,0,0.5
+56e77a8700c9c71400d7718e,bm25_rag,What website are teachers using to sell their lesson plans?,TeachersPayTeachers.com,TeachersPayTeachers.com | TeachersPayTeachers.com | TeachersPayTeachers.com,1,1.0
+56f7f2e0aef2371900625cb3,bm25_rag,Where did Luther spend his career?,Wittenberg,University of Wittenberg | University of Wittenberg | University of Wittenberg.,0,0.5
+56f8074faef2371900625d7b,bm25_rag,Who translated and printed Luther's 95 These?,Friends of Luther,friends of Luther | friends of Luther | friends of Luther,1,1.0
+56f80ad1a6d7ea1400e1739c,bm25_rag,What sections of Church dogma did Luther come to view in another way?,"Penance, righteousness, doctrine of justification.",penance and righteousness | penance and righteousness | penance and righteousness,0,0.5
+56f8225ea6d7ea1400e173f3,bm25_rag,Of what was the Diet of Worms an assembly? ,general assembly of the estates of the Holy Roman Empire,estates of the Holy Roman Empire | estates of the Holy Roman Empire | general assembly of the estates of the Holy Roman Empire,1,1.0
+56f845dba6d7ea1400e1751d,bm25_rag,What did Luther identify the Papacy as?,The Antichrist.,antichrist | antichrist of 2 Thessalonians 2 | The antichrist of 2 Thessalonians 2,1,1.0
+56f84a60aef2371900625f9e,bm25_rag,Who wrote a resounding letter to the elector praising Luther?,Jerome Schurf,Jerome Schurf | Jerome Schurf | Schurf,1,1.0
+56f84e63aef2371900625fc3,bm25_rag,What did Luther call the revolting peasants?,The Devil's work.,"mad dogs | Murderous, Thieving Hordes | mad dogs",0,0.0
+56f8541da6d7ea1400e17579,bm25_rag,"Besides the walk to the church, what else was left out of the day's celebration?",The wedding banquet was left out.,wedding banquet | wedding banquet | banquet,0,0.5714
+56f85cf0aef237190062601d,bm25_rag,What did the new mass allow as regards ceremony?,Public stimulation,freedom of ceremony | freedom | wine as well as the bread,0,0.0
+56f867e3a6d7ea1400e175da,bm25_rag,What work of Luther's is seen as a clear religious teaching?,The Small Catechism,Small Catechism | Small Catechism | The Small Catechism,1,1.0
+56f86966aef2371900626054,bm25_rag,What work is useful for pastors?,Steam digester,Larger Catechism | Larger Catechism | Larger Catechism,0,0.0
+56f86b44a6d7ea1400e175f7,bm25_rag,What did he work on refining until the end of his life?,The New Testament and Old Testament translations.,the translation | translation | translation,0,0.0
+56f8a2969e9bad19000a022f,bm25_rag,What book did Luther write in response to Agricola and the antinomians?,On the Councils and the Church,On the Councils and the Church | On the Councils and the Church | On the Councils,1,1.0
+56f8a6969e9bad19000a025f,bm25_rag,What should a Christian follow in his life?,The Christian should follow the Ten Commandments.,Ten Commandments | Ten Commandments | his or her vocations on a daily basis,0,0.5714
+56f8c2ee9b226e1400dd0f46,bm25_rag,"Besides the arguments with Rome and his own fellow reformers, what scandal  contributed to Luther's failing health?",bigamy of the Philip of Hesse incident,bigamy of the Philip of Hesse | the bigamy of the Philip of Hesse incident | bigamy of the Philip of Hesse,1,1.0
+56f8c7029e9bad19000a04a1,bm25_rag,What was Luther involved in dealing with the minds in Mansfeld?,Count Albrecht of Mansfeld brought the industry under his own control.,negotiations | negotiations for a settlement | siblings' families continuing in their father Hans Luther's copper mining,0,0.0
+5705edcd52bb8914006896cb,bm25_rag,How many miles south of San Jose is the north - south midway point located?,11 miles (18 km),11 | 11 | 11,0,0.4
+5705f36452bb89140068971b,bm25_rag,Which mountain range influenced the split of the regions?,Tehachapi Range,Tehachapis | the Tehachapis | Tehachapis,0,0.0
+5705f36452bb89140068971c,bm25_rag,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",southern California,southern | southern California | southern California,1,1.0
+57060df252bb891400689821,bm25_rag,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",Riverside,Riverside | Riverside | Downtown Riverside,1,1.0
+5706111a52bb89140068984e,bm25_rag,How many lines run out of Downtown Los Angeles?,Six,Six | Six | Six,1,1.0
+5706149552bb891400689884,bm25_rag,When is the suspended team scheduled to return?,2018,2018 | in 2018 | 2018,1,1.0
+570961aa200fba1400367f16,bm25_rag,Who's satellites would the new free-to-air channels be broadcast from?,28.5°E,Astra | Astra's | Astra's satellites,0,0.0
+5709686c200fba1400367f78,bm25_rag,How many people were registered to receive the HD service prior to launch?,"40,000","40,000 | 40,000 | 40,000",1,1.0
+570d391fb3d812140066d576,bm25_rag,Of what mountain system are the Victorian Alps a part?,Great Dividing Range,Great Dividing Range | the Great Dividing Range | Great Dividing Range,1,1.0
+57107d73b654c5140001f91e,bm25_rag,When was this edict declared?,1598,1685 | 1685 | 1685,0,0.0
+57108198b654c5140001f93a,bm25_rag,What is the southern region where protestants are concentrated?,Alsace in northeast France and the Cévennes mountain region in the south.,Cévennes | Cévennes | Cévennes mountain region,0,0.4615
+571095a8a58dae1900cd6a77,bm25_rag,When was the French colony in modern day Brazil founded?,1555,1555 | 1555 | 1555,1,1.0
+5710e9f8a58dae1900cd6b34,bm25_rag,When was the colony destroyed?,1565,1565 | 1565 | 1565,1,1.0
+5710f4b8b654c5140001fa46,bm25_rag,Which Count did the Prince strike an arrangement with?,Ludwig von Nassau-Saarbrücken,Count Ludwig von Nassau-Saarbrücken | Ludwig von Nassau-Saarbrücken | Count Ludwig von Nassau-Saarbrücken,1,1.0
+5710f4b8b654c5140001fa49,bm25_rag,In what year was the agreement to allow the Saarland settlement reached?,1935,1604 | 1604 | 1604,0,0.0
+5711163bb654c5140001fb17,bm25_rag,"What is the name of the third, permanent Huguenot church in New Rochelle?",Trinity-St. Paul's Episcopal Church,Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church,1,1.0
+571136b8a58dae1900cd6d24,bm25_rag,How is lap provided by overlapping the admission side port?,By extending the exhaust side port.,lengthening rubbing surfaces of the valve | lengthening rubbing surfaces | lengthening rubbing surfaces of the valve,0,0.0
+57114f0050c2381900b54a67,bm25_rag,What is an example of a steam-powered automobile?,Traction engine,Stanley Steamer | Stanley Steamer | Stanley Steamer | Stanley Steamer,0,0.0
+571156152419e3140095559b,bm25_rag,How was the efficiency of a steam engine typically evaluated?,By comparing its performance against Watt's original design.,duty | duty,0,0.0
+571c3a685efbb31900334db3,bm25_rag,Of what group in the periodic table is oxygen a member?,Chalcogen,chalcogen | chalcogen | chalcogen | chalcogen | the chalcogen group,1,1.0
+571c83f3dd7acb1400e4c0d8,bm25_rag,How is dioxygen most simply described?,A covalent double bond.,covalent double bond | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms,1,1.0
+571c8539dd7acb1400e4c0e6,bm25_rag,What previous work did Lavoisier experiments discredit?,Phlogiston theory,phlogiston theory | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory,1,1.0
+571ccc00dd7acb1400e4c15c,bm25_rag,In how many places is oxygen stored in its cycle?,three,three | three | three | three main reservoirs | three,1,1.0
+571cd703dd7acb1400e4c183,bm25_rag,What is usual form of oxygen bound compounds?,Oxides,oxides | oxides | oxides | oxides | oxides,1,1.0
+571cda1bdd7acb1400e4c197,bm25_rag,In what state is oxygen shipped in bulk?,Liquid,liquid | as a liquid | liquid | as a liquid in specially insulated tankers,1,1.0
+571cde695efbb31900334e19,bm25_rag,"Besides fats, fatty acids, and amino acids,what other organic compounds contain oxygen?",Carbohydrates,proteins | proteins | proteins | proteins | proteins,0,0.0
+5725b92e38643c19005acbd6,bm25_rag,The price of oil is usually a stable commodity until when?,From 1947 to 1967,Until the oil shock | the oil shock | the oil shock | Until the oil shock | the oil shock,0,0.0
+5726241189a1e219009ac2e2,bm25_rag,How long does it take for new areas to have significant oil production?,5 to 10 years.,five to ten years | five to ten years | five to ten years | five to ten years | five to ten years,0,0.5
+57265a58dd62a815002e8270,bm25_rag,Name a type of Toyota compact trucks?,Toyota Hilux,Toyota Hilux | Hilux | Hilux | Toyota Hilux | Hilux,1,1.0
+5725b56589a1e219009abd22,bm25_rag,Who did the U.S. collaborate with on an Earth orbit mission in 1975?,Apollo-Soyuz Test Project,Soviet Union | Apollo Applications Program | Soviet Union | Soviet Union | Soviet Union,0,0.0
+5725b64d89a1e219009abd41,bm25_rag,What type of launch was happening during the Apollo 1 incident?,A simulated launch countdown on LC-34.,prelaunch test | prelaunch | prelaunch test | prelaunch test,0,0.0
+5725c01389a1e219009abdd7,bm25_rag,How many launch pads were originally planned?,three,three | several | three | three pads | three,1,1.0
+5725cc2038643c19005acd1b,bm25_rag,What helped support the Command Module with a propulsion engine and propellants?,Service Module,Service Module (SM) | cylindrical Service Module | Service Module | cylindrical Service Module | Service Module,1,1.0
+5725d2ef271a42140099d257,bm25_rag,The S-IVB-200 was used in what stage of the Saturn V?,third stage,third stage | third | third stage | second stage,1,1.0
+5725f239271a42140099d35d,bm25_rag,What type of camera was used to record the Moon landing?,Special Apollo TV camera,special Apollo TV camera | Apollo TV camera | Apollo TV | Apollo TV camera | Apollo TV camera,1,1.0
+5725cc38ec44d21400f3d5bf,bm25_rag,Which country in 1985 signed a treaty to give it special status?,Greenland,Greenland | Greenland | Greenland | Greenland,1,1.0
+57268e2bf1498d1400e8e3b1,bm25_rag,When year was the Maastrich Treaty signed?,1992,1992 | 1992 | 1992 | 1992,1,1.0
+57264a8cdd62a815002e808e,bm25_rag,Which authority figure is designated to schedule and set the work of the EU?,The European Council.,The Commission's President | The Commission's President | The Commission's President | The Commission's President (,0,0.0
+572651f9f1498d1400e8dbf1,bm25_rag,How much of a voting majority must there be to effectively censure the Commission?,Two-thirds majority.,two-thirds majority | a two-thirds majority | a two-thirds majority | a two-thirds majority,1,1.0
+572695285951b619008f774b,bm25_rag,Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?,TFEU article 294,TFEU article 294 | TFEU article 294 | TFEU article 294 | TFEU article 294,1,1.0
+5726a14c708984140094cc51,bm25_rag,How long has the concept of legal certainty been recognized as one of the general principles by the EU law?,Since the 1960s,since the 1960s | since the 1960s | since the 1960s,1,1.0
+5726a5525951b619008f78df,bm25_rag,Which directive mentioned was created in 1994?,NYPD Blue,Works Council Directive | the 1994 Works Council Directive | Works Council Directive,0,0.0
+5729e2316aef0514001550c4,bm25_rag,What kind of forest is the Amazon rainforest?,"Mistakenly referred to as a jungle, it is actually a moist broadleaf forest.",moist broadleaf forest | moist broadleaf forest | tropical,0,0.4286
+5729e6313f37b319004785ab,bm25_rag,Where did water on the eastern side of the amazon basin travel after the split?,Atlantic,the Atlantic | the Atlantic | Atlantic,1,1.0
+5725cbb289a1e219009abed4,bm25_rag,What was believed to be the cause of devastation to the civilization?,Spread of diseases from Europe.,diseases from Europe | the spread of diseases from Europe | spread of diseases from Europe,1,1.0
+5729ef266aef05140015511c,bm25_rag,What type of soil is considered a product of soil management by indigenous peoples in the Amazon Forest?,Terra preta,Terra preta (black earth) | Terra preta | black earth,1,1.0
+5729ef266aef05140015511e,bm25_rag,In lands attributed to what tribe are found remains of large settlements?,Xingu tribe,Xingu tribe | Xingu | Xingu,1,1.0
+5726722bdd62a815002e852b,bm25_rag,What is the average plant biosmass?,356 ± 47 tonnes per hectare.,356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare,1,1.0
+5725b9db38643c19005acbe1,bm25_rag,What are Ctenophora commonly known as?,Comb jellies,comb jellies | comb jellies | comb jellies,1,1.0
+5726887e708984140094c91b,bm25_rag,What is the name of the two-tentacled cydippid that feedsentirely on salps called?,Lampea,Lampea | Lampea | Lampea,1,1.0
+57268a37f1498d1400e8e33d,bm25_rag,What is the oncorhynchus also called?,chum salmon,chum salmon | chum salmon | chum salmon,1,1.0
+5725ce4d38643c19005acd51,bm25_rag,How do you pronounce Fresno?,Fres-no.,(/ˈfrɛznoʊ/ FREZ-noh) | FREZ-noh | FREZ-noh,0,0.0
+5725daa8ec44d21400f3d6b5,bm25_rag,Which artist has a piece of his artwork located at the Fulton Mall?,Pierre-Auguste Renoir,Pierre-Auguste Renoir | Pierre-Auguste Renoir | Pierre-Auguste Renoir,1,1.0
+57263c78ec44d21400f3dc7b,bm25_rag,WHen did ARPNET and SITA become operational,ARPANET and SITA HLN were operational in 1969.,1969 | 1969 | 1969,0,0.2222
+57263ea0271a42140099d7c5,bm25_rag,DEC originally had 3 layers but evolved into how many layers ,seven,"Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol | seven | seven",1,1.0
+57264228ec44d21400f3dcf6,bm25_rag,Who founded Telnet ,I don't know.,Larry Roberts | ARPA IPTO director Larry Roberts | Larry Roberts,0,0.0
+57264228ec44d21400f3dcf9,bm25_rag,Telnet was sold to ,I don't know.,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE | GTE | GTE,0,0.0
+57264991f1498d1400e8db31,bm25_rag,Where did the residents of Antioch flee to?,To the north.,The city's residents fled to the north | the north | north,0,0.6667
+57264fe65951b619008f6fa4,bm25_rag,When was the study on sequenced Y genomes published?,October 2011,October 2011 | October 2011 | October 2011,1,1.0
+5726509bdd62a815002e815b,bm25_rag,What did Shrewsbury note about the plague?,Shrewsbury noted inconsistencies between reported mortality rates and modern bubonic plague cases.,rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | the reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague,0,0.4286
+5726516a708984140094c224,bm25_rag,Why are researchers struggling to identify the history of the plague?,"Lack of reliable statistics, varying estimates of initial population size.",the lack of reliable statistics from this period | the lack of reliable statistics | lack of reliable statistics,0,0.5714
+572669a9dd62a815002e841a,bm25_rag,The principle of faunal succession was developed 100 years before whose theory of evolution?,William Smith's,Charles Darwin | Charles Darwin | Charles Darwin | Charles Darwin,0,0.0
+57268220f1498d1400e8e218,bm25_rag,Why is it important to precisely date rocks within the stratigraphic section? ,To provide better absolute bounds on the timing and rates of deposition.,provide better absolute bounds on the timing and rates of deposition | gain information about past climate | provide better absolute bounds on the timing and rates of deposition,0,0.9524
+57268882f1498d1400e8e30a,bm25_rag,Which famous evolutionist was influenced by the book Principles of Geology?,Charles Darwin.,Charles Darwin | Charles Darwin | Charles Darwin,1,1.0
+5726660d5951b619008f71b2,bm25_rag,What river was there originally a bridge across in Roman times?,The River Tyne.,Tyne | the River Tyne | the River Tyne,1,1.0
+572666d9dd62a815002e83b6,bm25_rag,How high was the stone wall built around Newcastle in the 13th century?,25 feet (7. 6 m),25-foot | 25-foot | 25-foot (7.6 m) high,0,0.2222
+57269698dd62a815002e8a6c,bm25_rag,How many universities does Newcastle have?,Two,two | two | two,1,1.0
+572680ac708984140094c83e,bm25_rag,In what year was the Victoria and Albert Museum founded?,1852,1852 | 1852 | 1852 | 1852,1,1.0
+57268f2c708984140094ca28,bm25_rag,The success of the Britain Can Make It exhibition led to the planning of what exhibition in 1951?,Festival of Britain (1951),Festival of Britain | Festival of Britain | the Festival of Britain,0,0.8571
+57269656708984140094cafe,bm25_rag,What is the estimated cost of the V&A branded gallery?,£43 million,£76 million | £76 million | £76 million,0,0.5
+5726ace8dd62a815002e8c9f,bm25_rag,What did the museum acquire from the Royal College of Science?,Henry Cole wing,Henry Cole wing | Henry Cole wing | Henry Cole wing,1,1.0
+5726c80c5951b619008f7dea,bm25_rag,Some of the museum's collection of Korean boxes are inlaid with what objects?,mother-of-pearl,mother-of-pearl | mother-of-pearl | mother-of-pearl,1,1.0
+5726cc11dd62a815002e9088,bm25_rag,The V&A library's collection of illuminated manuscripts are dated to which centuries?,12th to 16th centuries,from the 12th to 16th | 12th to 16th | 12th to 16th,0,0.8571
+5726de7a5951b619008f80ac,bm25_rag,Approximately how many items are in the glass collection of the V&A?,Over 6000 items.,over 6000 | over 6000 | over 6000,0,0.8
+5726e680dd62a815002e946e,bm25_rag,From which period did the objects in the Soulages collection come from?,1859-1865,Italian and French Renaissance | Italian and French Renaissance objects | Renaissance,0,0.0
+5726f4a0708984140094d6eb,bm25_rag,What was the goal of John Sheepshanks considerable bequest to the museum?,To form a 'A National Gallery of British Art'.,"forming a 'A National Gallery of British Art' | forming a 'A National Gallery of British Art', | forming a 'A National Gallery of British Art'",0,0.7692
+57267b755951b619008f7433,bm25_rag,What company owns the American Broadcasting Company?,Disney–ABC Television Group,The Walt Disney Company | Disney–ABC Television Group | Disney–ABC Television Group,1,1.0
+57268739708984140094c8f1,bm25_rag,ABC continued NBC Blue's tradition of what?,public service,public service | public service | public service,1,1.0
+5726caaaf1498d1400e8eb5c,bm25_rag,What was the first international event broadcast by ABC?,Dick Clark's New Year's Rockin' Eve,coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II,0,0.0
+57273abef1498d1400e8f4da,bm25_rag,What cable company removed ABC stations from it's systems in certain markets in April 2000?,Time Warner Cable,Time Warner Cable | Time Warner Cable | Time Warner Cable,1,1.0
+572741aaf1498d1400e8f53f,bm25_rag,How much did Walt Disney want ABC to invest in Disneyland?,"$500,000","$500,000 | $500,000 | $500,000",1,1.0
+572749d7dd62a815002e9a90,bm25_rag,The Roots miniseries was based on a novel by what author?,Alex Haley,Alex Haley | Alex Haley | Alex Haley,1,1.0
+57274a8cf1498d1400e8f5b7,bm25_rag,When was 7 Lincoln Square completed?,June 1979,June 1979 | June 1979 | 1979,1,1.0
+572764855951b619008f8953,bm25_rag,Between what times does Good Morning America air on ABC?,7:00 a. m. to 9:00 a. m. weekdays,7:00 to 9:00 a.m. weekdays | 7:00 to 9:00 a.m | 7:00 to 9:00 a.m.,0,0.7273
+5727678e5951b619008f8974,bm25_rag,What programs are broadcast from the Times Square Studios for ABC?,Good Morning America and Nightline.,Good Morning America and Nightline | Good Morning America and Nightline | Good Morning America and Nightline,1,1.0
+572771a5f1498d1400e8f842,bm25_rag,The merger between ITT and ABC was suspended after a complaint was filed by whom in July 1967?,Donald F. Turner,Department of Justice | Department of Justice | Department of Justice,0,0.0
+5726bf135951b619008f7ce9,bm25_rag,What strategy did Jebe's army use against Kuchlug and his supporters?,Inciting internal revolt,inciting internal revolt | inciting internal revolt | inciting internal revolt among Kuchlug's supporters,1,1.0
+5726c0c5dd62a815002e8f77,bm25_rag,Who ordered the attack on the caravan of traders Genghis Khan send to Khwarezmia?,Inalchuq,Inalchuq | Inalchuq | Inalchuq,1,1.0
+572754cd5951b619008f8864,bm25_rag,Who halted the advance of Hulagu Khan across the Middle East?,The Mamluks of Egypt halted the advance of Hulagu Khan across the Middle East.,the Mamluks of Egypt | Mamluks | the Mamluks of Egypt,0,0.4286
+5726da89dd62a815002e92b6,bm25_rag,What types of responsibilities might a pharmacy technician have?,"Manages pharmacy department, supervises other technicians, specializes in medication consulting.",manage the pharmacy department and specialised areas in pharmacy practice | manage the pharmacy department and specialised areas | manage the pharmacy department,0,0.3158
+5726dcbddd62a815002e9324,bm25_rag,Where did the pharmacist stand in relation to the Emperor's personal physicians?,Above,ranked above | ranked above | ranked above the two personal physicians of the Emperor,0,0.6667
+5728f2e26aef051400154897,bm25_rag,What is the term for a hyperactive immune system that attacks normal tissues?,Autoimmune disease,autoimmunity | autoimmunity | autoimmunity,0,0.0
+5728f2e26aef051400154899,bm25_rag,What acquired condition results in immunodeficiency in humans?,HIV/AIDS,HIV/AIDS | HIV/AIDS | HIV/AIDS,1,1.0
+5728fc2eaf94a219006a9ec9,bm25_rag,Semen contains what in order to kill pathogens?,defensins and zinc,defensins and zinc | defensins and zinc | defensins,1,1.0
+572908c13f37b31900477fbf,bm25_rag,Innate cells can act as mediators in the activation of what branch of the immune system?,adaptive,adaptive immune system | adaptive | adaptive immune system.,1,1.0
+5729efab3f37b319004785d1,bm25_rag,What are one of the key cell types of the adaptive immune system?,T cells.,T cells | T cells | T cells,1,1.0
+5729fb003f37b31900478629,bm25_rag,The production of what signalling molecules is regulated by the immune system?,Cytokines,hormones | hormones | hormones,0,0.0
+5729fd111d046914007796a5,bm25_rag,Plants lack what kind of immune cells?,Phagocytic cells.,phagocytic cells | phagocytic | phagocytic cells,1,1.0
+5729fe5c3f37b31900478631,bm25_rag,Where are the specialized cells that eliminate cells that recognize self-antigens located?,thymus and bone marrow,thymus and bone marrow | thymus and bone marrow | thymus and bone marrow,1,1.0
+572a02483f37b3190047864c,bm25_rag,What are two examples of nonself entities in accordance with Frank Burnet's theory?,"Pathogens, allograft.","pathogens, an allograft | pathogens, an allograft | pathogens, an allograft",1,1.0
+572a0bf96aef051400155206,bm25_rag,What type of hypersensitivity is associated with allergies?,Type I hypersensitivity,Type I | Type I | Type I hypersensitivity,1,1.0
+572a142e3f37b319004786b9,bm25_rag,Complement proteins bind to what kind of molecules on the surface of microbes in order to elicit an immune response?,carbohydrates,carbohydrates | carbohydrates | carbohydrates,1,1.0
+5728d4c03acd2414000dffa0,bm25_rag,Who was one of the earliest examples of Civil Disobedience against?,Egyptians against the British occupation in the 1919 Revolution.,the British | British | Egyptians against the British occupation in the 1919 Revolution. | British occupation | communist governments,1,1.0
+57280f974b864d1900164370,bm25_rag,If the head of government refuses to enforce a decision of the highest court what terminology could be used?,constitutional impasse,constitutional impasse | her or his capacity as public official | capacity as public official | constitutional impasse,1,1.0
+5728dddc2ca10214002da9d6,bm25_rag,What book of the Bible discusses civil disobedience?,The Book of Exodus,Book of Exodus | Exodus | Exodus | Exodus | Exodus,1,1.0
+572825a92ca10214002d9eff,bm25_rag,Bedau notes that illegal protests towards public policy may serve as what purpose?,propaganda,propaganda | propaganda | propaganda | propaganda | just a harassment,1,1.0
+572825a92ca10214002d9f02,bm25_rag,What was the outcome of living in the California Redwood tree?,Luna survived the cutting down attempt.,successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | preventing it from being cut down,0,0.1818
+5728e5f43acd2414000e0173,bm25_rag,How can you protest against the government in an individual way?,Remain in jail.,Threatening government officials | forbidden speech | engaging in the forbidden speech | speech | Threatening government officials,0,0.2857
+5728fd3c3f37b31900477f2f,bm25_rag,What should the punishment rely on instead in a just society?,moral reasons,moral reasons to follow this law | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good,0,0.5
+57273e50dd62a815002e9a02,bm25_rag,What is Engineering News-Record?,A trade magazine for the construction industry.,a trade magazine for the construction industry | a trade magazine for the construction industry | trade magazine for the construction industry,1,1.0
+572742bd5951b619008f8787,bm25_rag,Residential construction can generate what is not carefully planned?,Waste,a lot of waste | waste | waste,1,1.0
+57274e975951b619008f87fb,bm25_rag,Many construction companies are now placing more emphasis on what?,establishing relationships with other necessary participants.,establishing relationships with other necessary participants through the design-build process | establishing relationships with other necessary participants | establishing relationships with other necessary participants,1,1.0
+57274ca8dd62a815002e9aa4,bm25_rag,"Along with trusts, what other non-profits are allowed to run schools in India?",societies,societies | societies | societies,1,1.0
+5727d9c43acd2414000dee17,bm25_rag,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003 | 2003 | 2003,1,1.0
+57281d494b864d19001644c0,bm25_rag,What political group began to gain support following the corruption scandal?,Jacksonville Consolidation,Jacksonville Consolidation | Jacksonville Consolidation | Jacksonville Consolidation,1,1.0
+5727e6cbff5b5019007d97ef,bm25_rag,"According to Oxfam, the 85 richest people have wealth equal to how many average people?",about 3.5 billion,about 3.5 billion people | 3.5 billion | 50% | 3.5 billion,0,0.8571
+5727f05b4b864d190016406a,bm25_rag,What does less education lead to when working?,Less education often leads to lower job prospects and earning potential.,lower wages | lower wages | lower wages,0,0.1538
+5729e2b76aef0514001550d2,bm25_rag,What can result in creating a poverty trap?,Gender inequality in education.,gender inequality in education | low economic growth | continued gender inequality in education,1,1.0
+5727fc37ff5b5019007d9a1b,bm25_rag,What has replaced lower skilled workers in the United States?,Machine labor.,machine labor | machine labor | machine labor,1,1.0
+5729f1c13f37b319004785e9,bm25_rag,What gender is less willing to travel or relocate for work?,Women,women | women | women,1,1.0
+5729f4273f37b319004785fd,bm25_rag,What can significantly contribute to the continuing inequality in a society over time?,Wealth concentration,wealth condensation | wealth condensation | wealth condensation,0,0.5
+572a07a86aef0514001551d6,bm25_rag,What does child well-being in rich countries correlate most to?,greater equality,greater equality | greater equality | greater equality but not per capita income,1,1.0
+572a13841d0469140077973b,bm25_rag,What have studies on income inequality sometimes found evidence confirming?,"Income inequality first increases, then decreases.",Kuznets curve hypothesis | Kuznets curve hypothesis | Kuznets curve hypothesis,0,0.0
+572a1c943f37b319004786e4,bm25_rag,What drove increased rental prices in East New York?,Gentrification of older neighborhoods.,residents willing to pay higher market rate for housing | gentrification of older neighbourhoods | new residents willing to pay higher market rate,0,0.75
+572800b03acd2414000df1f4,bm25_rag,What is the name of a Time Lord that Doctor Who has fought?,Master,The Master | The Master | The Master,1,1.0
+572811434b864d190016438d,bm25_rag,Who were the secondary companions of the Ninth and Tenth Doctors?,"Mickey Smith, Jack Harkness.",Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman),0,0.6154
+5728185f3acd2414000df45c,bm25_rag,Which series version had a negative reception from some Doctor Who viewers?,2010 series,2010 | the 2010 series | the 2010 series,1,1.0
+572819864b864d190016447f,bm25_rag,Who released a disco version of the Doctor Who theme?,Mankind,Mankind | Mankind | Mankind,1,1.0
+57281f203acd2414000df4f6,bm25_rag,Which logo had the DW Tardis insignia removed?,Twelfth Doctor,The logo for the Twelfth Doctor | The logo for the Twelfth Doctor | The logo for the Twelfth Doctor,0,0.6667
+57282f204b864d190016468e,bm25_rag,Why did the series end in 2011?,Elisabeth Sladen died in early 2011.,due to the death of Elisabeth Sladen | the death of Elisabeth Sladen | the death of Elisabeth Sladen,0,0.4
+57283a392ca10214002da11c,bm25_rag,Which Doctor Who show was the largest simulcast of a TV drama?,50th anniversary special,50th anniversary special | 50th anniversary special | 50th anniversary special,1,1.0
+57283dbeff5b5019007d9fc7,bm25_rag,"How many awards has Doctor Who been nominated for, over the years?",over 200,over 200 | over 200 | over 200,1,1.0
+572849b4ff5b5019007da0f4,bm25_rag,How much did the Milton Friedman Institute roughly cost?,$200 million,around $200 million | $200 million | $200 million | $200 million,1,1.0
+57286951ff5b5019007da211,bm25_rag,What Goldman Sachs CEO is also an alumni of the University of Chicago?,Jon Corzine,Jon Corzine | Jon Corzine | Jon Corzine,1,1.0
+572867d72ca10214002da2ff,bm25_rag,Where did Korea border Kublai's territory?,Korea bordered Kublai's territory along the northeastern border.,northeast | northeast | the northeast,0,0.0
+57286c8cff5b5019007da21c,bm25_rag,How many people in Quzhou are descended from Confucius?,"30,000","30,000 | 30,000 | 30,000",1,1.0
+57286d4f2ca10214002da329,bm25_rag,When did Kublai attack Xiangyang?,Between 1268 and 1273.,between 1268 and 1273 | between 1268 and 1273 | between 1268 and 1273,1,1.0
+57286d4f2ca10214002da32c,bm25_rag,How did the final Song emperor die?,Drowned.,drowned | drowned | drowned,1,1.0
+572878942ca10214002da3a2,bm25_rag,What encouraged trade under the Yuan?,Political unity of China and Central Asia.,The political unity of China and much of central Asia | political unity of China and much of central Asia | political unity,0,0.875
+572879574b864d1900164a14,bm25_rag,What type of musical instruments did the Yuan bring to China?,Western musical instruments.,Western | Western | Western,0,0.5
+57287c142ca10214002da3d2,bm25_rag,What did Kublai do to prevent famines?,Ordered the construction of granaries.,granaries were ordered built throughout the empire | granaries were ordered built throughout the empire | granaries were ordered built,0,0.5
+5728de0e2ca10214002da9de,bm25_rag,What mountain has snow on it all year round?,I don't know.,"Mount Kenya | Mount Kenya, | Mount Kenya",0,0.0
+572914441d04691400779029,bm25_rag,Who warned of the potential impact?,Western countries,"of the United States, Britain, Germany and France | governments | governments of the United States, Britain, Germany and France",0,0.0
+572925491d046914007790c4,bm25_rag,How many Kenyans are living below the poverty level?,Half of Kenyans live below the poverty level.,Half | Half | Half,0,0.25
+57293ca73f37b3190047815f,bm25_rag,What rules does the IPCC have to follow?,Authors must prioritize peer-reviewed sources; use grey literature when necessary.,the Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO,0,0.0
+57293d116aef051400154bc8,bm25_rag,What does the IPCC not do?,It does not carry out research.,does not carry out research nor does it monitor climate related data | research | carry out research nor does it monitor climate related data,0,0.6667
+57293e983f37b3190047818b,bm25_rag,When was the joint statement on climate change issued?,2001,2001 | 2001 | 2001,1,1.0
+572945b11d0469140077922f,bm25_rag,When was a study published confirming the 2001 IPCC projections?,On 1 February 2007.,1 February 2007 | 1 February 2007 | 1 February 2007,0,0.8571
+572957ad1d046914007792d9,bm25_rag,What kind of cell did cynaobacteria enter long ago?,free-living cyanobacterium,eukaryotic | an early eukaryotic cell | eukaryotic,0,0.0
+57296a65af94a219006aa3c5,bm25_rag,How does the secondary theory say most cpDNA is structured?,linear and replicates through homologous recombination.,linear | linear | linear,0,0.2857
+57296f85af94a219006aa404,bm25_rag,What shape are pyrenoids?,roughly spherical,roughly spherical | roughly spherical | spherical,1,1.0
+5729789b6aef051400154f6e,bm25_rag,How large are the outer PD ring's filaments?,about 5 nanometers across,about 5 nanometers across | about 5 nanometers across | 5 nanometers across,1,1.0
+572970c11d04691400779467,bm25_rag,When was the prime number theorem proven?,At the end of the 19th century.,at the end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century,1,1.0
+572980f9af94a219006aa4d5,bm25_rag,What is the name of another type of prime here p+1 or p-1 takes a certain shape?,Sophie Germain primes,Fermat primes | Mersenne | primorial primes | primorial primes | primorial primes,0,0.4
+572fe1d404bcaa1900d76e37,bm25_rag,Where is the Rhine? ,"Near Millingen aan de Rijn, close to the Dutch-German border.",Europe | Central and Western Europe | Germany | Germany,0,0.0
+572f609ca23a5019007fc5af,bm25_rag,"After the Rhine emerges from Lake Constance, what direction does it flow?",generally westward,westward | westward | westward,0,0.6667
+572ff293947a6a140053ce56,bm25_rag,Which river joins the Rhine in Duisburg?,The Ruhr.,Ruhr | Ruhr | The Ruhr,1,1.0
+57300888b2c2fd1400568778,bm25_rag,What was the Colonia Agrippina's original name?,Colonia Agrippina was originally named Ubiorum.,Ubiorum | oppidum Ubiorum | oppidum Ubiorum,0,0.2857
+572fb42904bcaa1900d76c15,bm25_rag,Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?,Tricia Marwick,one MSP | MSP | MSP,0,0.0
+572fc41f947a6a140053cc83,bm25_rag,What members typically open debates?,ministers or party leaders,ministers or party leaders | ministers or party leaders | ministers or party leaders,1,1.0
+572fc78d04bcaa1900d76d0a,bm25_rag,What type of committee is set down under the SP's standing orders?,Mandatory Committees,Mandatory | Mandatory | Mandatory Committees,1,1.0
+572fcd86947a6a140053ccdb,bm25_rag,Who may introduce new laws or amendments to laws already on the books as a bill?,The Scottish Government can introduce new laws or amendments to existing laws as a bill.,the Scottish Government | Scottish Government | the Scottish Government,0,0.2667
+572fda6fb2c2fd140056850e,bm25_rag,What set is a seat added to after being allocated?,constituency seats,constituency seats | constituency | second,1,1.0
+572ffe6fb2c2fd14005686f3,bm25_rag,What are incompetent government's commitment to social justice limited to?,rhetoric,rhetoric | rhetoric | rhetoric,1,1.0
+573010fab2c2fd14005687da,bm25_rag,Where did a bloody civil war break out?,Egypt,Algeria | Algeria | Algeria,0,0.0
+573062662461fd1900a9cdfa,bm25_rag,imperialism often divides countries by using which technique?,diagnosis,othering | othering | othering | othering | othering,0,0.0
+573081c2069b531400832137,bm25_rag,Most imperialism was carried out using which method of transport?,I don't know.,seaborne | land | sea and trade routes | sea,0,0.0
+573088da069b53140083216c,bm25_rag,Where was Halford Mackinder born?,Britain,Britain | Britain | Britain | Britain | Britain,1,1.0
+573093598ab72b1400f9c5ae,bm25_rag,"When imperialism impacts social norms of a state, what is it called?",Whiteness is still prized today.,Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism,0,0.0
+573099ee8ab72b1400f9c5df,bm25_rag,What weapons were the Zulus using during the Anglo-Zulu War of 1879?,"Arrows, swords, and leather shields.","arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields",1,1.0
+5730a4d02461fd1900a9cf29,bm25_rag,When did France take control of Algeria?,1830,1830 | 1830 | 1830 | 1830 | 1830,1,1.0
+5730b8ca8ab72b1400f9c705,bm25_rag,When was Isiah Bowman appointed to President Wilson's Inquiry?,1917,1917 | 1917 | 1917 | 1917 | 1917,1,1.0
+5730982f396df919000961e2,bm25_rag,What does UMC stand for?,United Methodist Church,United Methodist Church | United Methodist Church (UMC) | United Methodist Church,1,1.0
+5730982f396df919000961e6,bm25_rag,What is the church's theological orientation?,Wesleyan,Wesleyan | orientation is decidedly Wesleyan | Wesleyan,1,1.0
+57309921396df919000961f6,bm25_rag,When did the movement that would become The United Methodist Church begin?,"April 23, 1968",mid-18th century | began in the mid-18th century within the Church of England. | mid-18th century,0,0.0
+5730ac6b8ab72b1400f9c671,bm25_rag,What is Prevenient grace?,Power enabling love and seeking God.,"the grace that ""goes before"" us | It is that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ. | that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ.",0,0.3333
+5730b10b8ab72b1400f9c6a0,bm25_rag,The UMC was a founding member of what coalition?,Religious Coalition for Reproductive Choice,Religious Coalition for Reproductive Choice | Religious Coalition for Reproductive Choice. | the Religious Coalition for Reproductive Choice,1,1.0
+5730b1e28ab72b1400f9c6af,bm25_rag,The church emphasizes the need to be in supportive ministry of what group?,all women,all women | unacceptable pregnancy. In | women,1,1.0
+5730b9852461fd1900a9cffb,bm25_rag,The Church supports those persons who conscientiously oppose what?,all war,all war | war | war,1,1.0
+5730d3adaca1c71400fe5af7,bm25_rag,No appointment is official fixed until what occurs?,the bishop reads the appointments at the session of the Annual Conference.,"bishop has read the appointments at the session of the Annual Conference | Until the bishop has read the appointments at the session of the Annual Conference, | the bishop has read the appointments at the session of the Annual Conference",0,0.8235
+5730d77ef6cb411900e244dd,bm25_rag,How to Baptized Members become Professing Members?,Through confirmation and sometimes the profession of faith.,confirmation and sometimes the profession of faith | through confirmation and sometimes the profession of faith. | confirmation,1,1.0
+5730de74f6cb411900e244fc,bm25_rag,"Unlike confirmation and profession of faith, what is a sacrament in the UMC?",Baptism,Baptism | Baptism | Baptism,1,1.0
+5733d7cbd058e614000b63ac,bm25_rag,What tribes were in Father Le Loutre's War?,Mi'kmaq and Abenaki.,Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki,1,1.0
+5733ef47d058e614000b662e,bm25_rag,When did Washington reach Fort Le Boeuf?,"December 12, 1753",December 12 | December 12 | December 12 | December 12 | December 12,0,0.8
+5733f309d058e614000b6649,bm25_rag,What were casualties of battle?,I don't know.,"killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | Canadians, including their commanding officer | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville",0,0.0
+5733f5f24776f419006615c3,bm25_rag,How many casualties did British get?,I don't know.,"Approximately 1,000 British soldiers were killed or injured. | Approximately 1,000 | 1,000 British soldiers | 1,000 | 1,000 British soldiers",0,0.0
+573408ef4776f41900661757,bm25_rag,When did the North American French and Indian War end?,1763,signing of the Treaty of Paris on 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763,0,0.5
+57340d124776f419006617c1,bm25_rag,When was Spanish takeover of Louisiana Territory complete?,1769,1769 | 1769 | 1769 | 1769 | 1769,1,1.0
+57373f80c3c5551400e51e92,bm25_rag,Who experimented by rolling stones and canonballs down a steep incline?,Galileo Galilei,Galileo | Galileo | Galileo Galilei | Galileo | Galileo | Galileo,1,1.0
+57377862c3c5551400e51ef3,bm25_rag,What occurs when traveling across a surface at a constant velocity with regard to friction?,"Zero net force, continuous motion.",dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium,0,0.0
+57377ec7c3c5551400e51f07,bm25_rag,What is more fundamental than force in quanton field theory?,momentum,conservation of momentum | conservation of momentum | conservation of momentum | the currently known fundamental forces,0,0.5
+57377ec7c3c5551400e51f08,bm25_rag,What diagrams are used to simplify particle interactions on a fundamental level?,Feynman diagrams.,Feynman | Feynman diagrams | Feynman,1,1.0
+573796edc3c5551400e51f37,bm25_rag,What is the term for the lack of obsevable free quarks?,Color confinement.,color confinement | color confinement | color confinement | color confinement,1,1.0
+56be5333acb8001400a5030b,oracle,What was the average cost for a 30 second commercial during Super Bowl 50?,$5 million,$5 million | $5 million | $5 million,1,1.0
+56beaf5e3aeaaa14008c9200,oracle,What halftime performer previously headlined Super Bowl XLVIII?,Bruno Mars,Bruno Mars | Bruno Mars | Mars,1,1.0
+56d9943fdc89441400fdb576,oracle,Which team had the best regular season in their history?,Carolina Panthers,Carolina Panthers | the Panthers | Carolina,1,1.0
+56d997cddc89441400fdb58a,oracle,How many receptions did Cotchery  get for the 2015 season?,79,39 | 39 | 39,0,0.0
+56bf3e803aeaaa14008c9589,oracle,What position does Brandon Marshall currently play? ,Linebacker,Linebacker | Linebacker | Linebacker,1,1.0
+56bebb293aeaaa14008c9305,oracle,In what city's Marriott did the Panthers stay?,San Jose,San Jose | San Jose | San Jose,1,1.0
+56d9b389dc89441400fdb6ec,oracle,What football associated thing started at Justin Herman Plaza in January?,Super Bowl City,"Super Bowl City | ""Super Bowl City"" | Super Bowl City",1,1.0
+56bebd713aeaaa14008c9331,oracle,How long will the event at Santa Clara Convention Center last?,A week-long event.,a week | a week | week,0,0.0
+56bec0dd3aeaaa14008c935b,oracle,What was the resolution of the cameras used in the EyeVision 360 system?,5K,5K | 5K | 5K,1,1.0
+56d722330d65d214001983a7,oracle,Which company had a commercial aired for free as a result of the Quickbooks contest?,Death Wish Coffee,Death Wish Coffee | Death Wish Coffee | Death Wish Coffee,1,1.0
+56bec4343aeaaa14008c93a9,oracle,What Universal trailer debuted during the Super Bowl?,The Secret Life of Pets,Jason Bourne | Jason Bourne | Jason Bourne,0,0.0
+56d9c203dc89441400fdb7a0,oracle,What two radio stations in Denver carried Super Bowl 50?,KOA and KRFX,KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM) | KOA (850 AM) and KRFX (103.5 FM),0,0.6
+56d7251d0d65d214001983cd,oracle,What former MVP was shown in the locker room?,Peyton Manning,Peyton Manning | Peyton Manning | Manning,1,1.0
+56d9c5e7dc89441400fdb7dc,oracle,What did Carolina face in the opening drive that they had not faced the entire postseason?,Deficit,a deficit. | a deficit | deficit,1,1.0
+56d9ccacdc89441400fdb842,oracle,What is the last name of the player who was Manning's top receiver for Super Bowl 50?,Sanders,Sanders | Sanders | Sanders,1,1.0
+5733a5f54776f41900660f46,oracle,Who was Frédéric Chopin?,Famous musician.,Famous musicians | musicians | Famous musicians,0,0.5
+57339eb9d058e614000b5efa,oracle,What does the Museum of the Polish Army portray the history of?,arms,arms | history of arms | arms,1,1.0
+5733a560d058e614000b5f78,oracle,Where did two of Triton's daughters set out on a journey through?,The depths of the oceans and seas.,depths of the oceans and seas | depths of the oceans and seas | depths of the oceans and seas,1,1.0
+57332442d058e614000b5723,oracle,What did Warsz own?,A village.,a village | village,1,1.0
+57338160d058e614000b5bfa,oracle,How many members are on the Warsaw City Counil?,60,60 | 60 | 60,1,1.0
+56dde27d9a695914005b9652,oracle,What part of France were the Normans located?,North of France.,north | the north | north,0,0.5
+56de10b44396321400ee2593,oracle,What was the name of the Norman castle?,Afranji,Afranji | Afranji | Afranji,1,1.0
+56e0b9d57aa994140058e6c3,oracle,Where did Tesla work with Edison?,New York City,New York City | New York City | New York City,1,1.0
+56dfaa047aa994140058dfbf,oracle,Milutin Tesla died at what age?,60,60 | 60 | 60,1,1.0
+56e057e1231d4119001ac047,oracle,Who arranged for Tesla to demonstrate his system at the IEEE?,Thomas Commerford Martin,Thomas Commerford Martin | Thomas Commerford Martin | Thomas Commerford Martin,1,1.0
+56e0ef90231d4119001ac46a,oracle,How old was Tesla when he became a citizen of the US?,35,35 | 35 | 35,1,1.0
+56e0f32d231d4119001ac4cc,oracle,Who was Tesla trying to photograph when he accidentally took the X-Ray image?,Mark Twain,Mark Twain | Mark Twain | Mark Twain,1,1.0
+56e0f6aa231d4119001ac4f0,oracle,Where are longitudinal waves found?,in plasmas,force-free magnetic fields | waves in plasmas | in force-free magnetic fields,0,0.8
+56e0ed557aa994140058e7e0,oracle,Who demonstrated the Egg of Columbus?,Tesla demonstrated the Egg of Columbus.,Tesla | Tesla | Tesla,0,0.3333
+56e0fb887aa994140058e86d,oracle,What type of animal did onlookers claim was piloting the boat?,trained monkey,monkey | monkey | a trained monkey,1,1.0
+56e10d2dcd28a01900c674db,oracle,When did Tesla make these claims?,1935,1935 | In 1935 | 1935,1,1.0
+56e11c24e3433e1400422c19,oracle,How tall was Tesla?,6 feet 2 inches,6 feet 2 inches | 6 feet 2 inches | 6 feet 2 inches (1.88 m),1,1.0
+56e11d8ecd28a01900c675f1,oracle,How long would Tesla spend gambling sometimes?,48 hours,more than 48 hours | 48 hours | 48 hours,1,1.0
+56e190bce3433e1400422fc8,oracle,What kind of problems are one of the main topics studied in computational complexity theory?,Decision problems.,Decision problems | Decision problems | Decision,1,1.0
+56e1a564cd28a01900c67a4a,oracle,What term corresponds to the maximum measurement of time across all functions of n? ,Worst-case time complexity,worst-case time complexity | worst-case time complexity | the worst-case time complexity,1,1.0
+56e1f10ee3433e1400423223,oracle,"Though unkown, what are the most commonly ascribed attributes of L in relation to P","Not strictly contained, possibly equal.",strictly contained in P or equal to P | contained in P or equal to P. | strictly contained in P or equal to P,0,0.4615
+56e74faf00c9c71400d76f94,oracle,Who could be the subjects of a teacher's college investigation?,Members of public schools,members | members | members,0,0.4
+56e756bc37bdd419002c3e99,oracle,What type of support does co-teaching provide?,Social networking support,social networking support | social networking | social networking,1,1.0
+56e7770037bdd419002c3fe0,oracle,"How much does a Probationer earn, initially?","£20,427","20,427 | £20,427 | 20,427",1,1.0
+56e7796637bdd419002c3ffe,oracle,What is the longest time that a teaching certificate is good for?,ten years,ten years | ten years | ten years,1,1.0
+56e77a8700c9c71400d7718e,oracle,What website are teachers using to sell their lesson plans?,TeachersPayTeachers.com,TeachersPayTeachers.com | TeachersPayTeachers.com | TeachersPayTeachers.com,1,1.0
+56f7f2e0aef2371900625cb3,oracle,Where did Luther spend his career?,University of Wittenberg,University of Wittenberg | University of Wittenberg | University of Wittenberg.,1,1.0
+56f8074faef2371900625d7b,oracle,Who translated and printed Luther's 95 These?,Lutherans,friends of Luther | friends of Luther | friends of Luther,0,0.0
+56f80ad1a6d7ea1400e1739c,oracle,What sections of Church dogma did Luther come to view in another way?,"Penance, righteousness, doctrines of justification, redemption, grace.",penance and righteousness | penance and righteousness | penance and righteousness,0,0.4
+56f8225ea6d7ea1400e173f3,oracle,Of what was the Diet of Worms an assembly? ,general assembly of the estates,estates of the Holy Roman Empire | estates of the Holy Roman Empire | general assembly of the estates of the Holy Roman Empire,0,0.6667
+56f845dba6d7ea1400e1751d,oracle,What did Luther identify the Papacy as?,Antichrist,antichrist | antichrist of 2 Thessalonians 2 | The antichrist of 2 Thessalonians 2,1,1.0
+56f84a60aef2371900625f9e,oracle,Who wrote a resounding letter to the elector praising Luther?,Jerome Schurf,Jerome Schurf | Jerome Schurf | Schurf,1,1.0
+56f84e63aef2371900625fc3,oracle,What did Luther call the revolting peasants?,devils' work,"mad dogs | Murderous, Thieving Hordes | mad dogs",0,0.0
+56f8541da6d7ea1400e17579,oracle,"Besides the walk to the church, what else was left out of the day's celebration?",The wedding banquet was also omitted.,wedding banquet | wedding banquet | banquet,0,0.5714
+56f85cf0aef237190062601d,oracle,What did the new mass allow as regards ceremony?,optional,freedom of ceremony | freedom | wine as well as the bread,0,0.0
+56f867e3a6d7ea1400e175da,oracle,What work of Luther's is seen as a clear religious teaching?,The Small Catechism,Small Catechism | Small Catechism | The Small Catechism,1,1.0
+56f86966aef2371900626054,oracle,What work is useful for pastors?,Luther's Larger Catechism,Larger Catechism | Larger Catechism | Larger Catechism,0,0.8
+56f86b44a6d7ea1400e175f7,oracle,What did he work on refining until the end of his life?,The New Testament and the Old Testament.,the translation | translation | translation,0,0.0
+56f8a2969e9bad19000a022f,oracle,What book did Luther write in response to Agricola and the antinomians?,On the Councils and the Church,On the Councils and the Church | On the Councils and the Church | On the Councils,1,1.0
+56f8a6969e9bad19000a025f,oracle,What should a Christian follow in his life?,The Ten Commandments.,Ten Commandments | Ten Commandments | his or her vocations on a daily basis,1,1.0
+56f8c2ee9b226e1400dd0f46,oracle,"Besides the arguments with Rome and his own fellow reformers, what scandal  contributed to Luther's failing health?",Philip of Hesse incident.,bigamy of the Philip of Hesse | the bigamy of the Philip of Hesse incident | bigamy of the Philip of Hesse,0,0.8
+56f8c7029e9bad19000a04a1,oracle,What was Luther involved in dealing with the minds in Mansfeld?,Count Albrecht of Mansfeld brought the industry under his own control.,negotiations | negotiations for a settlement | siblings' families continuing in their father Hans Luther's copper mining,0,0.0
+5705edcd52bb8914006896cb,oracle,How many miles south of San Jose is the north - south midway point located?,11 miles (18 km),11 | 11 | 11,0,0.4
+5705f36452bb89140068971b,oracle,Which mountain range influenced the split of the regions?,Tehachapi Range,Tehachapis | the Tehachapis | Tehachapis,0,0.0
+5705f36452bb89140068971c,oracle,"In the definition based off the mountain range, which region would the desert portions of north Los Angeles County be included in?",southern California,southern | southern California | southern California,1,1.0
+57060df252bb891400689821,oracle,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",Riverside,Riverside | Riverside | Downtown Riverside,1,1.0
+5706111a52bb89140068984e,oracle,How many lines run out of Downtown Los Angeles?,Six,Six | Six | Six,1,1.0
+5706149552bb891400689884,oracle,When is the suspended team scheduled to return?,2018,2018 | in 2018 | 2018,1,1.0
+570961aa200fba1400367f16,oracle,Who's satellites would the new free-to-air channels be broadcast from?,Astra's satellites.,Astra | Astra's | Astra's satellites,1,1.0
+5709686c200fba1400367f78,oracle,How many people were registered to receive the HD service prior to launch?,"40,000","40,000 | 40,000 | 40,000",1,1.0
+570d391fb3d812140066d576,oracle,Of what mountain system are the Victorian Alps a part?,Great Dividing Range,Great Dividing Range | the Great Dividing Range | Great Dividing Range,1,1.0
+57107d73b654c5140001f91e,oracle,When was this edict declared?,1685,1685 | 1685 | 1685,1,1.0
+57108198b654c5140001f93a,oracle,What is the southern region where protestants are concentrated?,Cévennes mountain region,Cévennes | Cévennes | Cévennes mountain region,1,1.0
+571095a8a58dae1900cd6a77,oracle,When was the French colony in modern day Brazil founded?,1555,1555 | 1555 | 1555,1,1.0
+5710e9f8a58dae1900cd6b34,oracle,When was the colony destroyed?,September 1565,1565 | 1565 | 1565,0,0.6667
+5710f4b8b654c5140001fa46,oracle,Which Count did the Prince strike an arrangement with?,Ludwig von Nassau-Saarbrücken,Count Ludwig von Nassau-Saarbrücken | Ludwig von Nassau-Saarbrücken | Count Ludwig von Nassau-Saarbrücken,1,1.0
+5710f4b8b654c5140001fa49,oracle,In what year was the agreement to allow the Saarland settlement reached?,1604,1604 | 1604 | 1604,1,1.0
+5711163bb654c5140001fb17,oracle,"What is the name of the third, permanent Huguenot church in New Rochelle?",Trinity-St. Paul's Episcopal Church,Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church | Trinity-St. Paul's Episcopal Church,1,1.0
+571136b8a58dae1900cd6d24,oracle,How is lap provided by overlapping the admission side port?,By extending the exhaust side port.,lengthening rubbing surfaces of the valve | lengthening rubbing surfaces | lengthening rubbing surfaces of the valve,0,0.0
+57114f0050c2381900b54a67,oracle,What is an example of a steam-powered automobile?,Stanley Steamer,Stanley Steamer | Stanley Steamer | Stanley Steamer | Stanley Steamer,1,1.0
+571156152419e3140095559b,oracle,How was the efficiency of a steam engine typically evaluated?,The duty.,duty | duty,1,1.0
+571c3a685efbb31900334db3,oracle,Of what group in the periodic table is oxygen a member?,Chalcogen group,chalcogen | chalcogen | chalcogen | chalcogen | the chalcogen group,1,1.0
+571c83f3dd7acb1400e4c0d8,oracle,How is dioxygen most simply described?,A covalent double bond resulting from molecular orbital formation.,covalent double bond | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms | a covalent double bond | a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms,0,0.5455
+571c8539dd7acb1400e4c0e6,oracle,What previous work did Lavoisier experiments discredit?,Phlogiston theory,phlogiston theory | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory of combustion and corrosion | phlogiston theory,1,1.0
+571ccc00dd7acb1400e4c15c,oracle,In how many places is oxygen stored in its cycle?,three,three | three | three | three main reservoirs | three,1,1.0
+571cd703dd7acb1400e4c183,oracle,What is usual form of oxygen bound compounds?,oxides,oxides | oxides | oxides | oxides | oxides,1,1.0
+571cda1bdd7acb1400e4c197,oracle,In what state is oxygen shipped in bulk?,Liquid,liquid | as a liquid | liquid | as a liquid in specially insulated tankers,1,1.0
+571cde695efbb31900334e19,oracle,"Besides fats, fatty acids, and amino acids,what other organic compounds contain oxygen?",Carbohydrates,proteins | proteins | proteins | proteins | proteins,0,0.0
+5725b92e38643c19005acbd6,oracle,The price of oil is usually a stable commodity until when?,Until the oil shock,Until the oil shock | the oil shock | the oil shock | Until the oil shock | the oil shock,1,1.0
+5726241189a1e219009ac2e2,oracle,How long does it take for new areas to have significant oil production?,five to ten years,five to ten years | five to ten years | five to ten years | five to ten years | five to ten years,1,1.0
+57265a58dd62a815002e8270,oracle,Name a type of Toyota compact trucks?,Toyota Hilux,Toyota Hilux | Hilux | Hilux | Toyota Hilux | Hilux,1,1.0
+5725b56589a1e219009abd22,oracle,Who did the U.S. collaborate with on an Earth orbit mission in 1975?,Soviet Union,Soviet Union | Apollo Applications Program | Soviet Union | Soviet Union | Soviet Union,1,1.0
+5725b64d89a1e219009abd41,oracle,What type of launch was happening during the Apollo 1 incident?,Prelaunch test,prelaunch test | prelaunch | prelaunch test | prelaunch test,1,1.0
+5725c01389a1e219009abdd7,oracle,How many launch pads were originally planned?,At least three,three | several | three | three pads | three,0,0.5
+5725cc2038643c19005acd1b,oracle,What helped support the Command Module with a propulsion engine and propellants?,Service Module,Service Module (SM) | cylindrical Service Module | Service Module | cylindrical Service Module | Service Module,1,1.0
+5725d2ef271a42140099d257,oracle,The S-IVB-200 was used in what stage of the Saturn V?,third stage,third stage | third | third stage | second stage,1,1.0
+5725f239271a42140099d35d,oracle,What type of camera was used to record the Moon landing?,Special Apollo TV camera,special Apollo TV camera | Apollo TV camera | Apollo TV | Apollo TV camera | Apollo TV camera,1,1.0
+5725cc38ec44d21400f3d5bf,oracle,Which country in 1985 signed a treaty to give it special status?,Greenland,Greenland | Greenland | Greenland | Greenland,1,1.0
+57268e2bf1498d1400e8e3b1,oracle,When year was the Maastrich Treaty signed?,1992,1992 | 1992 | 1992 | 1992,1,1.0
+57264a8cdd62a815002e808e,oracle,Which authority figure is designated to schedule and set the work of the EU?,The President of the European Commission.,The Commission's President | The Commission's President | The Commission's President | The Commission's President (,0,0.3333
+572651f9f1498d1400e8dbf1,oracle,How much of a voting majority must there be to effectively censure the Commission?,Two-thirds majority,two-thirds majority | a two-thirds majority | a two-thirds majority | a two-thirds majority,1,1.0
+572695285951b619008f774b,oracle,Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?,TFEU article 294,TFEU article 294 | TFEU article 294 | TFEU article 294 | TFEU article 294,1,1.0
+5726a14c708984140094cc51,oracle,How long has the concept of legal certainty been recognized as one of the general principles by the EU law?,Since the 1960s,since the 1960s | since the 1960s | since the 1960s,1,1.0
+5726a5525951b619008f78df,oracle,Which directive mentioned was created in 1994?,Works Council Directive,Works Council Directive | the 1994 Works Council Directive | Works Council Directive,1,1.0
+5729e2316aef0514001550c4,oracle,What kind of forest is the Amazon rainforest?,"Mistakenly referred to as a jungle, it is actually a moist broadleaf forest.",moist broadleaf forest | moist broadleaf forest | tropical,0,0.4286
+5729e6313f37b319004785ab,oracle,Where did water on the eastern side of the amazon basin travel after the split?,Atlantic,the Atlantic | the Atlantic | Atlantic,1,1.0
+5725cbb289a1e219009abed4,oracle,What was believed to be the cause of devastation to the civilization?,Spread of diseases from Europe.,diseases from Europe | the spread of diseases from Europe | spread of diseases from Europe,1,1.0
+5729ef266aef05140015511c,oracle,What type of soil is considered a product of soil management by indigenous peoples in the Amazon Forest?,Terra preta,Terra preta (black earth) | Terra preta | black earth,1,1.0
+5729ef266aef05140015511e,oracle,In lands attributed to what tribe are found remains of large settlements?,Xingu tribe,Xingu tribe | Xingu | Xingu,1,1.0
+5726722bdd62a815002e852b,oracle,What is the average plant biosmass?,356 ± 47 tonnes per hectare.,356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare | 356 ± 47 tonnes per hectare,1,1.0
+5725b9db38643c19005acbe1,oracle,What are Ctenophora commonly known as?,Comb jellies,comb jellies | comb jellies | comb jellies,1,1.0
+5726887e708984140094c91b,oracle,What is the name of the two-tentacled cydippid that feedsentirely on salps called?,Lampea,Lampea | Lampea | Lampea,1,1.0
+57268a37f1498d1400e8e33d,oracle,What is the oncorhynchus also called?,chum salmon,chum salmon | chum salmon | chum salmon,1,1.0
+5725ce4d38643c19005acd51,oracle,How do you pronounce Fresno?,/freˈzoʊ/,(/ˈfrɛznoʊ/ FREZ-noh) | FREZ-noh | FREZ-noh,0,0.0
+5725daa8ec44d21400f3d6b5,oracle,Which artist has a piece of his artwork located at the Fulton Mall?,Pierre-Auguste Renoir,Pierre-Auguste Renoir | Pierre-Auguste Renoir | Pierre-Auguste Renoir,1,1.0
+57263c78ec44d21400f3dc7b,oracle,WHen did ARPNET and SITA become operational,1969,1969 | 1969 | 1969,1,1.0
+57263ea0271a42140099d7c5,oracle,DEC originally had 3 layers but evolved into how many layers ,seven,"Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol | seven | seven",1,1.0
+57264228ec44d21400f3dcf6,oracle,Who founded Telnet ,Larry Roberts,Larry Roberts | ARPA IPTO director Larry Roberts | Larry Roberts,1,1.0
+57264228ec44d21400f3dcf9,oracle,Telnet was sold to ,GTE,Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE | GTE | GTE,1,1.0
+57264991f1498d1400e8db31,oracle,Where did the residents of Antioch flee to?,The city's residents fled to the north.,The city's residents fled to the north | the north | north,1,1.0
+57264fe65951b619008f6fa4,oracle,When was the study on sequenced Y genomes published?,October 2011,October 2011 | October 2011 | October 2011,1,1.0
+5726509bdd62a815002e815b,oracle,What did Shrewsbury note about the plague?,Inconsistent mortality rates.,rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | the reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague | reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague,0,0.3333
+5726516a708984140094c224,oracle,Why are researchers struggling to identify the history of the plague?,Lack of reliable statistics and incomplete records.,the lack of reliable statistics from this period | the lack of reliable statistics | lack of reliable statistics,0,0.7273
+572669a9dd62a815002e841a,oracle,The principle of faunal succession was developed 100 years before whose theory of evolution?,Charles Darwin's,Charles Darwin | Charles Darwin | Charles Darwin | Charles Darwin,0,0.5
+57268220f1498d1400e8e218,oracle,Why is it important to precisely date rocks within the stratigraphic section? ,To provide better absolute bounds on the timing and rates of deposition.,provide better absolute bounds on the timing and rates of deposition | gain information about past climate | provide better absolute bounds on the timing and rates of deposition,0,0.9524
+57268882f1498d1400e8e30a,oracle,Which famous evolutionist was influenced by the book Principles of Geology?,Charles Darwin,Charles Darwin | Charles Darwin | Charles Darwin,1,1.0
+5726660d5951b619008f71b2,oracle,What river was there originally a bridge across in Roman times?,River Tyne,Tyne | the River Tyne | the River Tyne,1,1.0
+572666d9dd62a815002e83b6,oracle,How high was the stone wall built around Newcastle in the 13th century?,25 feet (7.6 m),25-foot | 25-foot | 25-foot (7.6 m) high,0,0.5
+57269698dd62a815002e8a6c,oracle,How many universities does Newcastle have?,Two,two | two | two,1,1.0
+572680ac708984140094c83e,oracle,In what year was the Victoria and Albert Museum founded?,1852,1852 | 1852 | 1852 | 1852,1,1.0
+57268f2c708984140094ca28,oracle,The success of the Britain Can Make It exhibition led to the planning of what exhibition in 1951?,Festival of Britain,Festival of Britain | Festival of Britain | the Festival of Britain,1,1.0
+57269656708984140094cafe,oracle,What is the estimated cost of the V&A branded gallery?,£76 million,£76 million | £76 million | £76 million,1,1.0
+5726ace8dd62a815002e8c9f,oracle,What did the museum acquire from the Royal College of Science?,Henry Cole wing,Henry Cole wing | Henry Cole wing | Henry Cole wing,1,1.0
+5726c80c5951b619008f7dea,oracle,Some of the museum's collection of Korean boxes are inlaid with what objects?,mother-of-pearl,mother-of-pearl | mother-of-pearl | mother-of-pearl,1,1.0
+5726cc11dd62a815002e9088,oracle,The V&A library's collection of illuminated manuscripts are dated to which centuries?,12th to 16th,from the 12th to 16th | 12th to 16th | 12th to 16th,1,1.0
+5726de7a5951b619008f80ac,oracle,Approximately how many items are in the glass collection of the V&A?,over 6000,over 6000 | over 6000 | over 6000,1,1.0
+5726e680dd62a815002e946e,oracle,From which period did the objects in the Soulages collection come from?,Italian and French Renaissance,Italian and French Renaissance | Italian and French Renaissance objects | Renaissance,1,1.0
+5726f4a0708984140094d6eb,oracle,What was the goal of John Sheepshanks considerable bequest to the museum?,To form a 'A National Gallery of British Art'.,"forming a 'A National Gallery of British Art' | forming a 'A National Gallery of British Art', | forming a 'A National Gallery of British Art'",0,0.7692
+57267b755951b619008f7433,oracle,What company owns the American Broadcasting Company?,Disney–ABC Television Group,The Walt Disney Company | Disney–ABC Television Group | Disney–ABC Television Group,1,1.0
+57268739708984140094c8f1,oracle,ABC continued NBC Blue's tradition of what?,public service,public service | public service | public service,1,1.0
+5726caaaf1498d1400e8eb5c,oracle,What was the first international event broadcast by ABC?,Queen Elizabeth II's coronation in June 1953.,coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II | the coronation of Queen Elizabeth II,0,0.5
+57273abef1498d1400e8f4da,oracle,What cable company removed ABC stations from it's systems in certain markets in April 2000?,Time Warner Cable,Time Warner Cable | Time Warner Cable | Time Warner Cable,1,1.0
+572741aaf1498d1400e8f53f,oracle,How much did Walt Disney want ABC to invest in Disneyland?,"$500,000","$500,000 | $500,000 | $500,000",1,1.0
+572749d7dd62a815002e9a90,oracle,The Roots miniseries was based on a novel by what author?,Alex Haley,Alex Haley | Alex Haley | Alex Haley,1,1.0
+57274a8cf1498d1400e8f5b7,oracle,When was 7 Lincoln Square completed?,June 1979,June 1979 | June 1979 | 1979,1,1.0
+572764855951b619008f8953,oracle,Between what times does Good Morning America air on ABC?,7:00 a.m. to 9:00 a.m. weekdays,7:00 to 9:00 a.m. weekdays | 7:00 to 9:00 a.m | 7:00 to 9:00 a.m.,0,0.9091
+5727678e5951b619008f8974,oracle,What programs are broadcast from the Times Square Studios for ABC?,Good Morning America and Nightline.,Good Morning America and Nightline | Good Morning America and Nightline | Good Morning America and Nightline,1,1.0
+572771a5f1498d1400e8f842,oracle,The merger between ITT and ABC was suspended after a complaint was filed by whom in July 1967?,Department of Justice,Department of Justice | Department of Justice | Department of Justice,1,1.0
+5726bf135951b619008f7ce9,oracle,What strategy did Jebe's army use against Kuchlug and his supporters?,Inciting internal revolt,inciting internal revolt | inciting internal revolt | inciting internal revolt among Kuchlug's supporters,1,1.0
+5726c0c5dd62a815002e8f77,oracle,Who ordered the attack on the caravan of traders Genghis Khan send to Khwarezmia?,Inalchuq,Inalchuq | Inalchuq | Inalchuq,1,1.0
+572754cd5951b619008f8864,oracle,Who halted the advance of Hulagu Khan across the Middle East?,Mamluks of Egypt,the Mamluks of Egypt | Mamluks | the Mamluks of Egypt,1,1.0
+5726da89dd62a815002e92b6,oracle,What types of responsibilities might a pharmacy technician have?,"Manage pharmacy department, specialize in patient interactions, conduct research.",manage the pharmacy department and specialised areas in pharmacy practice | manage the pharmacy department and specialised areas | manage the pharmacy department,0,0.5
+5726dcbddd62a815002e9324,oracle,Where did the pharmacist stand in relation to the Emperor's personal physicians?,Above them,ranked above | ranked above | ranked above the two personal physicians of the Emperor,0,0.5
+5728f2e26aef051400154897,oracle,What is the term for a hyperactive immune system that attacks normal tissues?,Autoimmunity,autoimmunity | autoimmunity | autoimmunity,1,1.0
+5728f2e26aef051400154899,oracle,What acquired condition results in immunodeficiency in humans?,HIV/AIDS,HIV/AIDS | HIV/AIDS | HIV/AIDS,1,1.0
+5728fc2eaf94a219006a9ec9,oracle,Semen contains what in order to kill pathogens?,defensins and zinc,defensins and zinc | defensins and zinc | defensins,1,1.0
+572908c13f37b31900477fbf,oracle,Innate cells can act as mediators in the activation of what branch of the immune system?,adaptive,adaptive immune system | adaptive | adaptive immune system.,1,1.0
+5729efab3f37b319004785d1,oracle,What are one of the key cell types of the adaptive immune system?,T cells.,T cells | T cells | T cells,1,1.0
+5729fb003f37b31900478629,oracle,The production of what signalling molecules is regulated by the immune system?,Thyroid hormone activity.,hormones | hormones | hormones,0,0.0
+5729fd111d046914007796a5,oracle,Plants lack what kind of immune cells?,Phagocytic cells.,phagocytic cells | phagocytic | phagocytic cells,1,1.0
+5729fe5c3f37b31900478631,oracle,Where are the specialized cells that eliminate cells that recognize self-antigens located?,thymus and bone marrow,thymus and bone marrow | thymus and bone marrow | thymus and bone marrow,1,1.0
+572a02483f37b3190047864c,oracle,What are two examples of nonself entities in accordance with Frank Burnet's theory?,"Pathogens, allograft.","pathogens, an allograft | pathogens, an allograft | pathogens, an allograft",1,1.0
+572a0bf96aef051400155206,oracle,What type of hypersensitivity is associated with allergies?,Type I,Type I | Type I | Type I hypersensitivity,1,1.0
+572a142e3f37b319004786b9,oracle,Complement proteins bind to what kind of molecules on the surface of microbes in order to elicit an immune response?,carbohydrates,carbohydrates | carbohydrates | carbohydrates,1,1.0
+5728d4c03acd2414000dffa0,oracle,Who was one of the earliest examples of Civil Disobedience against?,Egyptians against the British occupation in the 1919 Revolution.,the British | British | Egyptians against the British occupation in the 1919 Revolution. | British occupation | communist governments,1,1.0
+57280f974b864d1900164370,oracle,If the head of government refuses to enforce a decision of the highest court what terminology could be used?,constitutional impasse,constitutional impasse | her or his capacity as public official | capacity as public official | constitutional impasse,1,1.0
+5728dddc2ca10214002da9d6,oracle,What book of the Bible discusses civil disobedience?,The Book of Exodus,Book of Exodus | Exodus | Exodus | Exodus | Exodus,1,1.0
+572825a92ca10214002d9eff,oracle,Bedau notes that illegal protests towards public policy may serve as what purpose?,Propaganda.,propaganda | propaganda | propaganda | propaganda | just a harassment,1,1.0
+572825a92ca10214002d9f02,oracle,What was the outcome of living in the California Redwood tree?,Successfully prevented the tree from being cut down.,successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | successfully preventing it from being cut down | preventing it from being cut down,0,0.7143
+5728e5f43acd2414000e0173,oracle,How can you protest against the government in an individual way?,Engaging in forbidden speech.,Threatening government officials | forbidden speech | engaging in the forbidden speech | speech | Threatening government officials,1,1.0
+5728fd3c3f37b31900477f2f,oracle,What should the punishment rely on instead in a just society?,Moral reasons,moral reasons to follow this law | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good | whether it would do more harm than good,0,0.5
+57273e50dd62a815002e9a02,oracle,What is Engineering News-Record?,A trade magazine for the construction industry.,a trade magazine for the construction industry | a trade magazine for the construction industry | trade magazine for the construction industry,1,1.0
+572742bd5951b619008f8787,oracle,Residential construction can generate what is not carefully planned?,Waste,a lot of waste | waste | waste,1,1.0
+57274e975951b619008f87fb,oracle,Many construction companies are now placing more emphasis on what?,establishing relationships with other necessary participants.,establishing relationships with other necessary participants through the design-build process | establishing relationships with other necessary participants | establishing relationships with other necessary participants,1,1.0
+57274ca8dd62a815002e9aa4,oracle,"Along with trusts, what other non-profits are allowed to run schools in India?",societies,societies | societies | societies,1,1.0
+5727d9c43acd2414000dee17,oracle,Starting in what year has Harvard topped the Academic Rankings of World Universities?,2003,2003 | 2003 | 2003,1,1.0
+57281d494b864d19001644c0,oracle,What political group began to gain support following the corruption scandal?,Jacksonville Consolidation,Jacksonville Consolidation | Jacksonville Consolidation | Jacksonville Consolidation,1,1.0
+5727e6cbff5b5019007d97ef,oracle,"According to Oxfam, the 85 richest people have wealth equal to how many average people?",about 3.5 billion,about 3.5 billion people | 3.5 billion | 50% | 3.5 billion,0,0.8571
+5727f05b4b864d190016406a,oracle,What does less education lead to when working?,Lower wages.,lower wages | lower wages | lower wages,1,1.0
+5729e2b76aef0514001550d2,oracle,What can result in creating a poverty trap?,Gender inequality in education,gender inequality in education | low economic growth | continued gender inequality in education,1,1.0
+5727fc37ff5b5019007d9a1b,oracle,What has replaced lower skilled workers in the United States?,Machine labor.,machine labor | machine labor | machine labor,1,1.0
+5729f1c13f37b319004785e9,oracle,What gender is less willing to travel or relocate for work?,Women,women | women | women,1,1.0
+5729f4273f37b319004785fd,oracle,What can significantly contribute to the continuing inequality in a society over time?,Wealth condensation.,wealth condensation | wealth condensation | wealth condensation,1,1.0
+572a07a86aef0514001551d6,oracle,What does child well-being in rich countries correlate most to?,Income inequality,greater equality | greater equality | greater equality but not per capita income,0,0.2222
+572a13841d0469140077973b,oracle,What have studies on income inequality sometimes found evidence confirming?,The Kuznets curve hypothesis.,Kuznets curve hypothesis | Kuznets curve hypothesis | Kuznets curve hypothesis,1,1.0
+572a1c943f37b319004786e4,oracle,What drove increased rental prices in East New York?,Gentrification of older neighborhoods.,residents willing to pay higher market rate for housing | gentrification of older neighbourhoods | new residents willing to pay higher market rate,0,0.75
+572800b03acd2414000df1f4,oracle,What is the name of a Time Lord that Doctor Who has fought?,The Master,The Master | The Master | The Master,1,1.0
+572811434b864d190016438d,oracle,Who were the secondary companions of the Ninth and Tenth Doctors?,Mickey Smith and Jack Harkness.,Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) | Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman),0,0.7143
+5728185f3acd2414000df45c,oracle,Which series version had a negative reception from some Doctor Who viewers?,2010 series,2010 | the 2010 series | the 2010 series,1,1.0
+572819864b864d190016447f,oracle,Who released a disco version of the Doctor Who theme?,Mankind,Mankind | Mankind | Mankind,1,1.0
+57281f203acd2414000df4f6,oracle,Which logo had the DW Tardis insignia removed?,Twelfth Doctor,The logo for the Twelfth Doctor | The logo for the Twelfth Doctor | The logo for the Twelfth Doctor,0,0.6667
+57282f204b864d190016468e,oracle,Why did the series end in 2011?,Elisabeth Sladen died in early 2011.,due to the death of Elisabeth Sladen | the death of Elisabeth Sladen | the death of Elisabeth Sladen,0,0.4
+57283a392ca10214002da11c,oracle,Which Doctor Who show was the largest simulcast of a TV drama?,The 50th anniversary special.,50th anniversary special | 50th anniversary special | 50th anniversary special,1,1.0
+57283dbeff5b5019007d9fc7,oracle,"How many awards has Doctor Who been nominated for, over the years?",over 200,over 200 | over 200 | over 200,1,1.0
+572849b4ff5b5019007da0f4,oracle,How much did the Milton Friedman Institute roughly cost?,$200 million,around $200 million | $200 million | $200 million | $200 million,1,1.0
+57286951ff5b5019007da211,oracle,What Goldman Sachs CEO is also an alumni of the University of Chicago?,Larry Ellison,Jon Corzine | Jon Corzine | Jon Corzine,0,0.0
+572867d72ca10214002da2ff,oracle,Where did Korea border Kublai's territory?,Korea became a tributary state under Mongol rule.,northeast | northeast | the northeast,0,0.0
+57286c8cff5b5019007da21c,oracle,How many people in Quzhou are descended from Confucius?,"30,000","30,000 | 30,000 | 30,000",1,1.0
+57286d4f2ca10214002da329,oracle,When did Kublai attack Xiangyang?,1268-1273,between 1268 and 1273 | between 1268 and 1273 | between 1268 and 1273,0,0.0
+57286d4f2ca10214002da32c,oracle,How did the final Song emperor die?,Drowned.,drowned | drowned | drowned,1,1.0
+572878942ca10214002da3a2,oracle,What encouraged trade under the Yuan?,Political unity of China and much of central Asia.,The political unity of China and much of central Asia | political unity of China and much of central Asia | political unity,1,1.0
+572879574b864d1900164a14,oracle,What type of musical instruments did the Yuan bring to China?,Western musical instruments.,Western | Western | Western,0,0.5
+57287c142ca10214002da3d2,oracle,What did Kublai do to prevent famines?,Ordered granaries built.,granaries were ordered built throughout the empire | granaries were ordered built throughout the empire | granaries were ordered built,0,0.8571
+5728de0e2ca10214002da9de,oracle,What mountain has snow on it all year round?,Mount Kenya,"Mount Kenya | Mount Kenya, | Mount Kenya",1,1.0
+572914441d04691400779029,oracle,Who warned of the potential impact?,"Western countries, the US, UK, Germany, France","of the United States, Britain, Germany and France | governments | governments of the United States, Britain, Germany and France",0,0.3077
+572925491d046914007790c4,oracle,How many Kenyans are living below the poverty level?,Half of Kenyans live below the poverty level.,Half | Half | Half,0,0.25
+57293ca73f37b3190047815f,oracle,What rules does the IPCC have to follow?,Financial Regulations and Rules of the WMO.,the Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO | Financial Regulations and Rules of the WMO,1,1.0
+57293d116aef051400154bc8,oracle,What does the IPCC not do?,Does not conduct research or monitor data.,does not carry out research nor does it monitor climate related data | research | carry out research nor does it monitor climate related data,0,0.5263
+57293e983f37b3190047818b,oracle,When was the joint statement on climate change issued?,2001,2001 | 2001 | 2001,1,1.0
+572945b11d0469140077922f,oracle,When was a study published confirming the 2001 IPCC projections?,On 1 February 2007.,1 February 2007 | 1 February 2007 | 1 February 2007,0,0.8571
+572957ad1d046914007792d9,oracle,What kind of cell did cynaobacteria enter long ago?,an early eukaryotic cell,eukaryotic | an early eukaryotic cell | eukaryotic,1,1.0
+57296a65af94a219006aa3c5,oracle,How does the secondary theory say most cpDNA is structured?,linear,linear | linear | linear,1,1.0
+57296f85af94a219006aa404,oracle,What shape are pyrenoids?,roughly spherical,roughly spherical | roughly spherical | spherical,1,1.0
+5729789b6aef051400154f6e,oracle,How large are the outer PD ring's filaments?,about 5 nanometers across,about 5 nanometers across | about 5 nanometers across | 5 nanometers across,1,1.0
+572970c11d04691400779467,oracle,When was the prime number theorem proven?,at the end of the 19th century,at the end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century | end of the 19th century,1,1.0
+572980f9af94a219006aa4d5,oracle,What is the name of another type of prime here p+1 or p-1 takes a certain shape?,Sophie Germain primes,Fermat primes | Mersenne | primorial primes | primorial primes | primorial primes,0,0.4
+572fe1d404bcaa1900d76e37,oracle,Where is the Rhine? ,"Swiss Alps, Switzerland-Austria border, Switzerland-Liechtenstein border, Swiss-German border",Europe | Central and Western Europe | Germany | Germany,0,0.0
+572f609ca23a5019007fc5af,oracle,"After the Rhine emerges from Lake Constance, what direction does it flow?",generally westward,westward | westward | westward,0,0.6667
+572ff293947a6a140053ce56,oracle,Which river joins the Rhine in Duisburg?,The Ruhr,Ruhr | Ruhr | The Ruhr,1,1.0
+57300888b2c2fd1400568778,oracle,What was the Colonia Agrippina's original name?,Colonia Ubiorum,Ubiorum | oppidum Ubiorum | oppidum Ubiorum,0,0.6667
+572fb42904bcaa1900d76c15,oracle,Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?,Tricia Marwick,one MSP | MSP | MSP,0,0.0
+572fc41f947a6a140053cc83,oracle,What members typically open debates?,ministers or party leaders,ministers or party leaders | ministers or party leaders | ministers or party leaders,1,1.0
+572fc78d04bcaa1900d76d0a,oracle,What type of committee is set down under the SP's standing orders?,Mandatory Committee,Mandatory | Mandatory | Mandatory Committees,0,0.6667
+572fcd86947a6a140053ccdb,oracle,Who may introduce new laws or amendments to laws already on the books as a bill?,The Scottish Government,the Scottish Government | Scottish Government | the Scottish Government,1,1.0
+572fda6fb2c2fd140056850e,oracle,What set is a seat added to after being allocated?,constituency seats,constituency seats | constituency | second,1,1.0
+572ffe6fb2c2fd14005686f3,oracle,What are incompetent government's commitment to social justice limited to?,Rhetoric.,rhetoric | rhetoric | rhetoric,1,1.0
+573010fab2c2fd14005687da,oracle,Where did a bloody civil war break out?,Algeria,Algeria | Algeria | Algeria,1,1.0
+573062662461fd1900a9cdfa,oracle,imperialism often divides countries by using which technique?,"Othering based on race, religion, or culture.",othering | othering | othering | othering | othering,0,0.25
+573081c2069b531400832137,oracle,Most imperialism was carried out using which method of transport?,sea,seaborne | land | sea and trade routes | sea,1,1.0
+573088da069b53140083216c,oracle,Where was Halford Mackinder born?,Britain,Britain | Britain | Britain | Britain | Britain,1,1.0
+573093598ab72b1400f9c5ae,oracle,"When imperialism impacts social norms of a state, what is it called?",Cultural imperialism,Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism | Cultural imperialism,1,1.0
+573099ee8ab72b1400f9c5df,oracle,What weapons were the Zulus using during the Anglo-Zulu War of 1879?,"Arrows, swords, and leather shields.","arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields | arrows, swords, and leather shields",1,1.0
+5730a4d02461fd1900a9cf29,oracle,When did France take control of Algeria?,1830,1830 | 1830 | 1830 | 1830 | 1830,1,1.0
+5730b8ca8ab72b1400f9c705,oracle,When was Isiah Bowman appointed to President Wilson's Inquiry?,1917,1917 | 1917 | 1917 | 1917 | 1917,1,1.0
+5730982f396df919000961e2,oracle,What does UMC stand for?,United Methodist Church,United Methodist Church | United Methodist Church (UMC) | United Methodist Church,1,1.0
+5730982f396df919000961e6,oracle,What is the church's theological orientation?,Wesleyan,Wesleyan | orientation is decidedly Wesleyan | Wesleyan,1,1.0
+57309921396df919000961f6,oracle,When did the movement that would become The United Methodist Church begin?,mid-18th century,mid-18th century | began in the mid-18th century within the Church of England. | mid-18th century,1,1.0
+5730ac6b8ab72b1400f9c671,oracle,What is Prevenient grace?,Power enabling love for God and seeking salvation.,"the grace that ""goes before"" us | It is that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ. | that power which enables us to love and motivates us to seek a relationship with God through Jesus Christ.",0,0.3077
+5730b10b8ab72b1400f9c6a0,oracle,The UMC was a founding member of what coalition?,Religious Coalition for Reproductive Choice,Religious Coalition for Reproductive Choice | Religious Coalition for Reproductive Choice. | the Religious Coalition for Reproductive Choice,1,1.0
+5730b1e28ab72b1400f9c6af,oracle,The church emphasizes the need to be in supportive ministry of what group?,all women,all women | unacceptable pregnancy. In | women,1,1.0
+5730b9852461fd1900a9cffb,oracle,The Church supports those persons who conscientiously oppose what?,all war,all war | war | war,1,1.0
+5730d3adaca1c71400fe5af7,oracle,No appointment is official fixed until what occurs?,the bishop reads the appointments at the session of the Annual Conference.,"bishop has read the appointments at the session of the Annual Conference | Until the bishop has read the appointments at the session of the Annual Conference, | the bishop has read the appointments at the session of the Annual Conference",0,0.8235
+5730d77ef6cb411900e244dd,oracle,How to Baptized Members become Professing Members?,Through confirmation and sometimes the profession of faith.,confirmation and sometimes the profession of faith | through confirmation and sometimes the profession of faith. | confirmation,1,1.0
+5730de74f6cb411900e244fc,oracle,"Unlike confirmation and profession of faith, what is a sacrament in the UMC?",Baptism,Baptism | Baptism | Baptism,1,1.0
+5733d7cbd058e614000b63ac,oracle,What tribes were in Father Le Loutre's War?,Mi'kmaq and Abenaki.,Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki | Mi'kmaq and the Abenaki | the Mi'kmaq and the Abenaki,1,1.0
+5733ef47d058e614000b662e,oracle,When did Washington reach Fort Le Boeuf?,"December 12, 1753",December 12 | December 12 | December 12 | December 12 | December 12,0,0.8
+5733f309d058e614000b6649,oracle,What were casualties of battle?,Many Canadians were killed.,"killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville | Canadians, including their commanding officer | many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville",0,0.375
+5733f5f24776f419006615c3,oracle,How many casualties did British get?,"1,000 killed or injured","Approximately 1,000 British soldiers were killed or injured. | Approximately 1,000 | 1,000 British soldiers | 1,000 | 1,000 British soldiers",0,0.6667
+573408ef4776f41900661757,oracle,When did the North American French and Indian War end?,The Treaty of Paris on 10 February 1763.,signing of the Treaty of Paris on 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763 | 10 February 1763,0,0.875
+57340d124776f419006617c1,oracle,When was Spanish takeover of Louisiana Territory complete?,1769,1769 | 1769 | 1769 | 1769 | 1769,1,1.0
+57373f80c3c5551400e51e92,oracle,Who experimented by rolling stones and canonballs down a steep incline?,Galileo Galilei,Galileo | Galileo | Galileo Galilei | Galileo | Galileo | Galileo,1,1.0
+57377862c3c5551400e51ef3,oracle,What occurs when traveling across a surface at a constant velocity with regard to friction?,"Zero net force, continuous motion.",dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium | dynamic equilibrium,0,0.0
+57377ec7c3c5551400e51f07,oracle,What is more fundamental than force in quanton field theory?,conservation of momentum,conservation of momentum | conservation of momentum | conservation of momentum | the currently known fundamental forces,1,1.0
+57377ec7c3c5551400e51f08,oracle,What diagrams are used to simplify particle interactions on a fundamental level?,Feynman diagrams,Feynman | Feynman diagrams | Feynman,1,1.0
+573796edc3c5551400e51f37,oracle,What is the term for the lack of obsevable free quarks?,Color confinement.,color confinement | color confinement | color confinement | color confinement,1,1.0

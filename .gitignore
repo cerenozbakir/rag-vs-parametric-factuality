@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# large / regenerable data — the pool + sample are cheap to regenerate from
+# the same seed, so we don't bloat the repo. The scripts recreate them.
+data/context_pool.jsonl
+data/sample.jsonl
+data/retrieved.jsonl
+
+# Hugging Face / torch caches if they ever get created inside the repo dir
+.cache/
